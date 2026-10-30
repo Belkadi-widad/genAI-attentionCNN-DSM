@@ -1,0 +1,141 @@
+classification_type,classification_label,soil_property,cv_method,rmse,r2,n_experiments,n_distinct_thresholds,n_profiles,n_values
+climate_region,All Algeria,A%,block,9.824813256543507,0.4426835664669554,4,4,2156,2156
+climate_region,All Algeria,A%,random,4.801827047620667,0.8709865437078861,1,0,2156,2156
+climate_region,All Algeria,A%,sp,14.636813537142853,-0.19948238486819897,4,4,2156,2156
+climate_region,All Algeria,A%,sp1,10.349339021244877,0.3884553470901273,4,4,2156,2156
+climate_region,All Algeria,A%,sp2,10.198505100911918,0.4180374770678693,1,0,2156,2156
+climate_region,All Algeria,CE,block,8.789644614440613,0.36130249644940077,4,4,2156,2156
+climate_region,All Algeria,CE,random,6.161293423374319,0.6895026645558431,1,0,2156,2156
+climate_region,All Algeria,CE,sp,12.11037563810915,-0.23278133372285637,4,4,2156,2156
+climate_region,All Algeria,CE,sp1,9.375542007580478,0.27924952472800146,4,4,2156,2156
+climate_region,All Algeria,CE,sp2,8.536216514700937,0.4040018140761089,1,0,2156,2156
+climate_region,All Algeria,CEC,block,2.4228118275682204,0.2399670943432459,4,4,2156,2156
+climate_region,All Algeria,CEC,random,1.8664082474772608,0.5495522508221486,1,0,2156,2156
+climate_region,All Algeria,CEC,sp,2.649663749135457,0.09160208621155128,4,4,2156,2156
+climate_region,All Algeria,CEC,sp1,2.5590479931446706,0.1518535285202687,4,4,2156,2156
+climate_region,All Algeria,CEC,sp2,2.4180223707825927,0.24394783673975562,1,0,2156,2156
+climate_region,All Algeria,L,block,12.640928000427362,0.4470830771375643,4,4,2156,2156
+climate_region,All Algeria,L,random,6.0530599608729325,0.8733061195261523,1,0,2156,2156
+climate_region,All Algeria,L,sp,16.82273927585689,-0.006386062044743929,4,4,2156,2156
+climate_region,All Algeria,L,sp1,12.73265949548464,0.4183373966845396,4,4,2156,2156
+climate_region,All Algeria,L,sp2,11.313344055436962,0.5574241868588676,1,0,2156,2156
+climate_region,All Algeria,OM,block,1.9629688928808684,0.6616868963333495,4,4,2156,2156
+climate_region,All Algeria,OM,random,1.2991681242528326,0.8547346243368574,1,0,2156,2156
+climate_region,All Algeria,OM,sp,3.291832353987896,0.06331063123316374,4,4,2156,2156
+climate_region,All Algeria,OM,sp1,2.2777765019261484,0.5448248675088477,4,4,2156,2156
+climate_region,All Algeria,OM,sp2,1.9197115673955922,0.6828217765065148,1,0,2156,2156
+climate_region,All Algeria,S%,block,15.289212405975379,0.5996323718630178,4,4,2156,2156
+climate_region,All Algeria,S%,random,7.766382093343035,0.9008287815599075,1,0,2156,2156
+climate_region,All Algeria,S%,sp,23.02054958298631,0.1278517609131613,4,4,2156,2156
+climate_region,All Algeria,S%,sp1,16.737234729948206,0.5210889570354339,4,4,2156,2156
+climate_region,All Algeria,S%,sp2,16.35993178131174,0.5599407854593348,1,0,2156,2156
+climate_region,All Algeria,pH,block,0.6154207444367836,0.37097116674343744,4,4,2156,2156
+climate_region,All Algeria,pH,random,0.40362129745798553,0.7323595979016733,1,0,2156,2156
+climate_region,All Algeria,pH,sp,0.773514745675839,0.014909815150214,4,4,2156,2156
+climate_region,All Algeria,pH,sp1,0.6222899424972284,0.3616293130353654,4,4,2156,2156
+climate_region,All Algeria,pH,sp2,0.4897101362909572,0.6060131631927697,1,0,2156,2156
+climate_region,High plateaus (semi-arid steppe),A%,block,5.441759446141154,0.0439858154801718,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),A%,random,3.0959005364369028,0.6920307744701422,1,0,481,481
+climate_region,High plateaus (semi-arid steppe),A%,sp,6.482581900049282,-0.36337903526365456,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),A%,sp1,5.5210579353534195,0.006432138129536691,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),A%,sp2,5.925287511141318,-0.1281118954787448,1,0,481,481
+climate_region,High plateaus (semi-arid steppe),CE,block,4.378104583111713,-0.23249731495757459,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),CE,random,3.1297958284602383,0.40156729205885944,1,0,481,481
+climate_region,High plateaus (semi-arid steppe),CE,sp,5.596072034541619,-0.980189038423825,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),CE,sp1,5.835906021350164,-1.2145949782213101,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),CE,sp2,6.450590354074161,-1.5420391404258713,1,0,481,481
+climate_region,High plateaus (semi-arid steppe),CEC,block,1.5604473993569603,-0.4485656971166345,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),CEC,random,1.021881338561361,0.385970523403125,1,0,481,481
+climate_region,High plateaus (semi-arid steppe),CEC,sp,2.245437542786945,-2.0721663707261957,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),CEC,sp1,1.9580135469993838,-1.4804402545929551,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),CEC,sp2,2.180647434541145,-1.7961418090914663,1,0,481,481
+climate_region,High plateaus (semi-arid steppe),L,block,6.572734798205401,-0.8643220274943972,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),L,random,3.2709274038412692,0.5415950846039055,1,0,481,481
+climate_region,High plateaus (semi-arid steppe),L,sp,9.359190461607994,-3.312805576475269,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),L,sp1,6.221475717075516,-0.6924467568012012,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),L,sp2,7.701178499155294,-1.5411004580408876,1,0,481,481
+climate_region,High plateaus (semi-arid steppe),OM,block,0.6062082716527434,-0.2471335951443414,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),OM,random,0.43486032913988165,0.36619265426082004,1,0,481,481
+climate_region,High plateaus (semi-arid steppe),OM,sp,0.946664015918406,-2.044586238666109,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),OM,sp1,0.8622646400505594,-1.5742730548469943,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),OM,sp2,0.571851760952975,-0.09603548108448101,1,0,481,481
+climate_region,High plateaus (semi-arid steppe),S%,block,7.965753429154747,0.16118941378174476,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),S%,random,4.778544809864597,0.6990517550921828,1,0,481,481
+climate_region,High plateaus (semi-arid steppe),S%,sp,12.001548679996777,-0.9797991283981438,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),S%,sp1,10.642189110936256,-0.6240282238766166,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),S%,sp2,10.749357802864491,-0.522879453442815,1,0,481,481
+climate_region,High plateaus (semi-arid steppe),pH,block,0.21692741731813367,-1.8602902436309021,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),pH,random,0.1575172236084221,-0.4959270004162002,1,0,481,481
+climate_region,High plateaus (semi-arid steppe),pH,sp,0.4689330360414603,-13.69700950032821,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),pH,sp1,0.21238786214939,-1.7659201494135803,4,4,481,481
+climate_region,High plateaus (semi-arid steppe),pH,sp2,0.24028904724261776,-2.48114613661596,1,0,481,481
+climate_region,Sahara (arid desert),A%,block,6.417460499720477,0.5894326728079518,4,4,288,288
+climate_region,Sahara (arid desert),A%,random,5.885478435703101,0.6553045387203911,1,0,288,288
+climate_region,Sahara (arid desert),A%,sp,7.560776909489095,0.428809657876529,4,4,288,288
+climate_region,Sahara (arid desert),A%,sp1,6.979614980091254,0.51099127985971,4,4,288,288
+climate_region,Sahara (arid desert),A%,sp2,7.290657886962914,0.4710611600907355,1,0,288,288
+climate_region,Sahara (arid desert),CE,block,8.473621423633453,0.02141026919986902,4,4,288,288
+climate_region,Sahara (arid desert),CE,random,6.664358189830863,0.3989474569649415,1,0,288,288
+climate_region,Sahara (arid desert),CE,sp,8.90906179438232,-0.07942968931702771,4,4,288,288
+climate_region,Sahara (arid desert),CE,sp1,8.975915915756985,-0.09699706609377617,4,4,288,288
+climate_region,Sahara (arid desert),CE,sp2,10.663832791949378,-0.5389426306247311,1,0,288,288
+climate_region,Sahara (arid desert),CEC,block,3.8647098463207072,-0.017037144947791544,4,4,288,288
+climate_region,Sahara (arid desert),CEC,random,3.2551732436874343,0.2799219084835268,1,0,288,288
+climate_region,Sahara (arid desert),CEC,sp,3.7867582373129642,0.023415645406014124,4,4,288,288
+climate_region,Sahara (arid desert),CEC,sp1,3.721919793807614,0.057690492507785074,4,4,288,288
+climate_region,Sahara (arid desert),CEC,sp2,3.721633296234637,0.058763976196336776,1,0,288,288
+climate_region,Sahara (arid desert),L,block,9.35575102589391,0.36706437115997936,4,4,288,288
+climate_region,Sahara (arid desert),L,random,7.442684466561762,0.6003404700553412,1,0,288,288
+climate_region,Sahara (arid desert),L,sp,10.504826193094427,0.20200713104731857,4,4,288,288
+climate_region,Sahara (arid desert),L,sp1,9.62922027087556,0.3297218576502158,4,4,288,288
+climate_region,Sahara (arid desert),L,sp2,9.31025456748008,0.3746054816803086,1,0,288,288
+climate_region,Sahara (arid desert),OM,block,0.5050566510016301,-0.1743793076513392,4,4,288,288
+climate_region,Sahara (arid desert),OM,random,0.5099827316037202,-0.19641602222362842,1,0,288,288
+climate_region,Sahara (arid desert),OM,sp,0.5161597706592436,-0.2321029193408346,4,4,288,288
+climate_region,Sahara (arid desert),OM,sp1,0.5439772710736551,-0.3667447363234166,4,4,288,288
+climate_region,Sahara (arid desert),OM,sp2,0.5944177385402792,-0.6253795863006055,1,0,288,288
+climate_region,Sahara (arid desert),S%,block,14.725334716168724,0.34494958220084737,4,4,288,288
+climate_region,Sahara (arid desert),S%,random,12.582007906425135,0.5268770608684179,1,0,288,288
+climate_region,Sahara (arid desert),S%,sp,16.601513499236606,0.16904750073979788,4,4,288,288
+climate_region,Sahara (arid desert),S%,sp1,14.548043049421315,0.36431260910975105,4,4,288,288
+climate_region,Sahara (arid desert),S%,sp2,17.97149304968626,0.03474420834318115,1,0,288,288
+climate_region,Sahara (arid desert),pH,block,0.42592400352810916,-0.12130531994422811,4,4,288,288
+climate_region,Sahara (arid desert),pH,random,0.39628123816124433,0.030363979427945775,1,0,288,288
+climate_region,Sahara (arid desert),pH,sp,0.41227123614791117,-0.05107934015004573,4,4,288,288
+climate_region,Sahara (arid desert),pH,sp1,0.44543733335510116,-0.2322217871738803,4,4,288,288
+climate_region,Sahara (arid desert),pH,sp2,0.39467912101076563,0.03818837332930547,1,0,288,288
+climate_region,Tell (Mediterranean),A%,block,11.412372011951172,0.4228806291039787,4,4,1387,1387
+climate_region,Tell (Mediterranean),A%,random,5.032402533637249,0.8924880330294965,1,0,1387,1387
+climate_region,Tell (Mediterranean),A%,sp,17.503676270841098,-0.3015882877928365,4,4,1387,1387
+climate_region,Tell (Mediterranean),A%,sp1,12.059729870468903,0.36759379040850726,4,4,1387,1387
+climate_region,Tell (Mediterranean),A%,sp2,11.76704879864392,0.4121843130415078,1,0,1387,1387
+climate_region,Tell (Mediterranean),CE,block,9.908219831836455,0.3888558216181385,4,4,1387,1387
+climate_region,Tell (Mediterranean),CE,random,6.810984061190614,0.7146974516080277,1,0,1387,1387
+climate_region,Tell (Mediterranean),CE,sp,14.104346899273908,-0.2698967681742735,4,4,1387,1387
+climate_region,Tell (Mediterranean),CE,sp1,10.346095992843278,0.33841154509932303,4,4,1387,1387
+climate_region,Tell (Mediterranean),CE,sp2,8.673197443115903,0.5373587111458238,1,0,1387,1387
+climate_region,Tell (Mediterranean),CEC,block,2.2725903615383514,0.07214302997584532,4,4,1387,1387
+climate_region,Tell (Mediterranean),CEC,random,1.6889330100246702,0.48850738665112525,1,0,1387,1387
+climate_region,Tell (Mediterranean),CEC,sp,2.4724614033099916,-0.09812586328379683,4,4,1387,1387
+climate_region,Tell (Mediterranean),CEC,sp1,2.418978802939824,-0.04960780868120687,4,4,1387,1387
+climate_region,Tell (Mediterranean),CEC,sp2,2.136230559549418,0.18170336499892492,1,0,1387,1387
+climate_region,Tell (Mediterranean),L,block,14.665481197219552,0.379711823537193,4,4,1387,1387
+climate_region,Tell (Mediterranean),L,random,6.460756781092191,0.879714486232289,1,0,1387,1387
+climate_region,Tell (Mediterranean),L,sp,19.485370936314467,-0.13692675418818348,4,4,1387,1387
+climate_region,Tell (Mediterranean),L,sp1,14.777891838445143,0.34156197006708267,4,4,1387,1387
+climate_region,Tell (Mediterranean),L,sp2,12.664460112788648,0.5378106815792651,1,0,1387,1387
+climate_region,Tell (Mediterranean),OM,block,2.409072482697588,0.5970160198366292,4,4,1387,1387
+climate_region,Tell (Mediterranean),OM,random,1.5824186847263801,0.829781433378042,1,0,1387,1387
+climate_region,Tell (Mediterranean),OM,sp,4.058608795660177,-0.12481250952598577,4,4,1387,1387
+climate_region,Tell (Mediterranean),OM,sp1,2.7801596206624786,0.46346505167010477,4,4,1387,1387
+climate_region,Tell (Mediterranean),OM,sp2,2.354096729058732,0.6232851569858546,1,0,1387,1387
+climate_region,Tell (Mediterranean),S%,block,17.156630484245312,0.5367211994262118,4,4,1387,1387
+climate_region,Tell (Mediterranean),S%,random,7.277930891207604,0.9210790688548587,1,0,1387,1387
+climate_region,Tell (Mediterranean),S%,sp,26.717352200382983,-0.0649066798487927,4,4,1387,1387
+climate_region,Tell (Mediterranean),S%,sp1,18.640901510895823,0.454861918896402,4,4,1387,1387
+climate_region,Tell (Mediterranean),S%,sp2,17.57571179533134,0.5397411046296626,1,0,1387,1387
+climate_region,Tell (Mediterranean),pH,block,0.7308759106425191,0.2538233679369464,4,4,1387,1387
+climate_region,Tell (Mediterranean),pH,random,0.46045704003570176,0.7075733376404277,1,0,1387,1387
+climate_region,Tell (Mediterranean),pH,sp,0.9009315575747001,-0.12018666009505852,4,4,1387,1387
+climate_region,Tell (Mediterranean),pH,sp1,0.737962735872583,0.24602823835244703,4,4,1387,1387
+climate_region,Tell (Mediterranean),pH,sp2,0.566047742715834,0.5580787774407859,1,0,1387,1387

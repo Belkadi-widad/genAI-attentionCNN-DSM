@@ -1,0 +1,2 @@
+n_estimators,min_split_gain,max_depth,learning_rate,min_child_samples,colsample_bytree,reg_alpha,r2,rmse
+100,0,-1,0.1,20,1.0,0,0.3578326627807018,10.713049572380122

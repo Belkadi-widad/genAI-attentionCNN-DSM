@@ -1,0 +1,1 @@
+soil_property,cv_method,normalization,depth,ccp_alpha,criterion,max_depth,min_samples_split,min_samples_leaf,max_features,splitter,max_leaf_nodes,min_impurity_decrease,rmse,mse,r2,mae,time

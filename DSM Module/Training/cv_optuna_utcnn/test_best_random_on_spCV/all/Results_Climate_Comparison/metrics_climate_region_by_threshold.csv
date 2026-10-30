@@ -1,0 +1,393 @@
+classification_type,classification_label,soil_property,cv_method_original,cv_method,threshold,threshold_km,n_profiles,n_values,rmse,r2,source_file
+climate_region,All Algeria,A%,block_k5_10000,block,10000.0,10.0,2156,2156,7.828143338563738,0.6571220780311837,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputA%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),A%,block_k5_10000,block,10000.0,10.0,481,481,5.900185373411368,-0.1185737806463727,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputA%\y_pred_oof.npy
+climate_region,Sahara (arid desert),A%,block_k5_10000,block,10000.0,10.0,288,288,6.358543522934164,0.5976654618152084,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputA%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),A%,block_k5_10000,block,10000.0,10.0,1387,1387,8.647986436930097,0.682505605174293,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputA%\y_pred_oof.npy
+climate_region,All Algeria,CE,block_k5_10000,block,10000.0,10.0,2156,2156,7.249624074595566,0.5701221503897879,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCE\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CE,block_k5_10000,block,10000.0,10.0,481,481,3.210915543606037,0.37014428744622063,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCE\y_pred_oof.npy
+climate_region,Sahara (arid desert),CE,block_k5_10000,block,10000.0,10.0,288,288,7.600281296832446,0.21827300476722256,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCE\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CE,block_k5_10000,block,10000.0,10.0,1387,1387,8.131834909064285,0.5933104350872169,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCE\y_pred_oof.npy
+climate_region,All Algeria,CEC,block_k5_10000,block,10000.0,10.0,2156,2156,2.296842600116396,0.3178284543165749,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCEC\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CEC,block_k5_10000,block,10000.0,10.0,481,481,1.3731660313836367,-0.10875192464879069,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCEC\y_pred_oof.npy
+climate_region,Sahara (arid desert),CEC,block_k5_10000,block,10000.0,10.0,288,288,3.793819819114386,0.021896562165433897,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCEC\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CEC,block_k5_10000,block,10000.0,10.0,1387,1387,2.1349188515910775,0.18270797254422577,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCEC\y_pred_oof.npy
+climate_region,All Algeria,L,block_k5_10000,block,10000.0,10.0,2156,2156,12.217795119711631,0.4838316603688205,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputL\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),L,block_k5_10000,block,10000.0,10.0,481,481,5.873764992977095,-0.47822515474482596,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputL\y_pred_oof.npy
+climate_region,Sahara (arid desert),L,block_k5_10000,block,10000.0,10.0,288,288,8.65479713986001,0.4595634110747753,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputL\y_pred_oof.npy
+climate_region,Tell (Mediterranean),L,block_k5_10000,block,10000.0,10.0,1387,1387,14.301018553254558,0.41064023525006166,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputL\y_pred_oof.npy
+climate_region,All Algeria,OM,block_k5_10000,block,10000.0,10.0,2156,2156,1.6874714677601192,0.7549220293443137,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputOM\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),OM,block_k5_10000,block,10000.0,10.0,481,481,0.5593646260563317,-0.04869134687290222,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputOM\y_pred_oof.npy
+climate_region,Sahara (arid desert),OM,block_k5_10000,block,10000.0,10.0,288,288,0.5053805715912103,-0.17492018045236635,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputOM\y_pred_oof.npy
+climate_region,Tell (Mediterranean),OM,block_k5_10000,block,10000.0,10.0,1387,1387,2.0651399560844106,0.7100900617811599,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputOM\y_pred_oof.npy
+climate_region,All Algeria,pH,block_k5_10000,block,10000.0,10.0,2156,2156,0.5155531547920412,0.56333294924822,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputpH\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),pH,block_k5_10000,block,10000.0,10.0,481,481,0.19255657835591344,-1.2354812135116031,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputpH\y_pred_oof.npy
+climate_region,Sahara (arid desert),pH,block_k5_10000,block,10000.0,10.0,288,288,0.428001166242307,-0.13107557165174244,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputpH\y_pred_oof.npy
+climate_region,Tell (Mediterranean),pH,block_k5_10000,block,10000.0,10.0,1387,1387,0.6018850014311735,0.500350134411385,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputpH\y_pred_oof.npy
+climate_region,All Algeria,S%,block_k5_10000,block,10000.0,10.0,2156,2156,11.347464190952786,0.7882878491484708,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputS%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),S%,block_k5_10000,block,10000.0,10.0,481,481,7.952478826526256,0.16650013828358334,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputS%\y_pred_oof.npy
+climate_region,Sahara (arid desert),S%,block_k5_10000,block,10000.0,10.0,288,288,13.169684042002677,0.48164796343413674,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputS%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),S%,block_k5_10000,block,10000.0,10.0,1387,1387,11.925234785874636,0.7881101163916114,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputS%\y_pred_oof.npy
+climate_region,All Algeria,A%,block_k5_20000,block,20000.0,20.0,2156,2156,9.271799931731593,0.5189944508733086,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputA%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),A%,block_k5_20000,block,20000.0,20.0,481,481,5.718972299894372,-0.05091915526702717,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputA%\y_pred_oof.npy
+climate_region,Sahara (arid desert),A%,block_k5_20000,block,20000.0,20.0,288,288,6.871964782037706,0.5300692440295192,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputA%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),A%,block_k5_20000,block,20000.0,20.0,1387,1387,10.605697875951464,0.5224876972846064,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputA%\y_pred_oof.npy
+climate_region,All Algeria,CE,block_k5_20000,block,20000.0,20.0,2156,2156,9.532764159702902,0.2567211226970625,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCE\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CE,block_k5_20000,block,20000.0,20.0,481,481,4.498376000792588,-0.23621729330764185,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCE\y_pred_oof.npy
+climate_region,Sahara (arid desert),CE,block_k5_20000,block,20000.0,20.0,288,288,8.164808908956871,0.09783115251538888,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCE\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CE,block_k5_20000,block,20000.0,20.0,1387,1387,10.97256795779501,0.25953850155659597,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCE\y_pred_oof.npy
+climate_region,All Algeria,CEC,block_k5_20000,block,20000.0,20.0,2156,2156,2.390421798574673,0.2611092794569754,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCEC\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CEC,block_k5_20000,block,20000.0,20.0,481,481,1.8015018699064178,-0.908348632820833,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCEC\y_pred_oof.npy
+climate_region,Sahara (arid desert),CEC,block_k5_20000,block,20000.0,20.0,288,288,3.613612304773739,0.11261006983547828,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCEC\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CEC,block_k5_20000,block,20000.0,20.0,1387,1387,2.2461748855007437,0.09530612005787953,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCEC\y_pred_oof.npy
+climate_region,All Algeria,L,block_k5_20000,block,20000.0,20.0,2156,2156,12.554952088646353,0.45495067556463864,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputL\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),L,block_k5_20000,block,20000.0,20.0,481,481,7.421629959876981,-1.3599676441157218,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputL\y_pred_oof.npy
+climate_region,Sahara (arid desert),L,block_k5_20000,block,20000.0,20.0,288,288,9.874790039710318,0.2964633944304774,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputL\y_pred_oof.npy
+climate_region,Tell (Mediterranean),L,block_k5_20000,block,20000.0,20.0,1387,1387,14.34125137366156,0.4073194984484194,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputL\y_pred_oof.npy
+climate_region,All Algeria,OM,block_k5_20000,block,20000.0,20.0,2156,2156,1.6892332801174992,0.7544100126291815,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputOM\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),OM,block_k5_20000,block,20000.0,20.0,481,481,0.668330059855716,-0.4970616249087958,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputOM\y_pred_oof.npy
+climate_region,Sahara (arid desert),OM,block_k5_20000,block,20000.0,20.0,288,288,0.5160954565234463,-0.22526873064559783,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputOM\y_pred_oof.npy
+climate_region,Tell (Mediterranean),OM,block_k5_20000,block,20000.0,20.0,1387,1387,2.055574229004659,0.7127695669737006,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputOM\y_pred_oof.npy
+climate_region,All Algeria,pH,block_k5_20000,block,20000.0,20.0,2156,2156,0.6946961737718685,0.20714578526192218,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputpH\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),pH,block_k5_20000,block,20000.0,20.0,481,481,0.24609161516723377,-2.6513035351230947,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputpH\y_pred_oof.npy
+climate_region,Sahara (arid desert),pH,block_k5_20000,block,20000.0,20.0,288,288,0.4308633095210615,-0.14625368279386808,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputpH\y_pred_oof.npy
+climate_region,Tell (Mediterranean),pH,block_k5_20000,block,20000.0,20.0,1387,1387,0.8310383270522654,0.04746522453273305,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputpH\y_pred_oof.npy
+climate_region,All Algeria,S%,block_k5_20000,block,20000.0,20.0,2156,2156,15.005176668224014,0.6298051534662765,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputS%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),S%,block_k5_20000,block,20000.0,20.0,481,481,7.495762888406754,0.25948788261130373,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputS%\y_pred_oof.npy
+climate_region,Sahara (arid desert),S%,block_k5_20000,block,20000.0,20.0,288,288,13.93501099077774,0.41965168375172146,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputS%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),S%,block_k5_20000,block,20000.0,20.0,1387,1387,17.034763467404556,0.5676369605700802,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputS%\y_pred_oof.npy
+climate_region,All Algeria,A%,block_k5_30000,block,30000.0,30.0,2156,2156,9.555625628317449,0.48909490207329986,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputA%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),A%,block_k5_30000,block,30000.0,30.0,481,481,5.115785027813513,0.15907377775744524,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputA%\y_pred_oof.npy
+climate_region,Sahara (arid desert),A%,block_k5_30000,block,30000.0,30.0,288,288,6.148579392536659,0.6237975758627567,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputA%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),A%,block_k5_30000,block,30000.0,30.0,1387,1387,11.180762162077981,0.4693002521230204,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputA%\y_pred_oof.npy
+climate_region,All Algeria,CE,block_k5_30000,block,30000.0,30.0,2156,2156,8.992019407737622,0.33865425334845534,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCE\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CE,block_k5_30000,block,30000.0,30.0,481,481,5.926738416081045,-1.1459264197645882,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCE\y_pred_oof.npy
+climate_region,Sahara (arid desert),CE,block_k5_30000,block,30000.0,30.0,288,288,8.575581823041489,0.004771127214839854,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCE\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CE,block_k5_30000,block,30000.0,30.0,1387,1387,9.911323364293644,0.39584383145701785,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCE\y_pred_oof.npy
+climate_region,All Algeria,CEC,block_k5_30000,block,30000.0,30.0,2156,2156,2.5236961293073406,0.17642101827587497,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCEC\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CEC,block_k5_30000,block,30000.0,30.0,481,481,1.435254936082221,-0.21128511929696026,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCEC\y_pred_oof.npy
+climate_region,Sahara (arid desert),CEC,block_k5_30000,block,30000.0,30.0,288,288,4.03329271506882,-0.10547994257333082,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCEC\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CEC,block_k5_30000,block,30000.0,30.0,1387,1387,2.4099933224013537,-0.041468638604990726,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCEC\y_pred_oof.npy
+climate_region,All Algeria,L,block_k5_30000,block,30000.0,30.0,2156,2156,12.650359638043387,0.4466353262100796,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputL\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),L,block_k5_30000,block,30000.0,30.0,481,481,6.611754255869115,-0.8730133034684218,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputL\y_pred_oof.npy
+climate_region,Sahara (arid desert),L,block_k5_30000,block,30000.0,30.0,288,288,9.389199033685006,0.36395469791652635,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputL\y_pred_oof.npy
+climate_region,Tell (Mediterranean),L,block_k5_30000,block,30000.0,30.0,1387,1387,14.67287709513863,0.3795924091662082,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputL\y_pred_oof.npy
+climate_region,All Algeria,OM,block_k5_30000,block,30000.0,30.0,2156,2156,2.3038740949573553,0.5431760319882999,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputOM\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),OM,block_k5_30000,block,30000.0,30.0,481,481,0.6768665879635762,-0.5355495712911391,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputOM\y_pred_oof.npy
+climate_region,Sahara (arid desert),OM,block_k5_30000,block,30000.0,30.0,288,288,0.5174360208619243,-0.23164229901780975,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputOM\y_pred_oof.npy
+climate_region,Tell (Mediterranean),OM,block_k5_30000,block,30000.0,30.0,1387,1387,2.8348200044417737,0.4537202499306233,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputOM\y_pred_oof.npy
+climate_region,All Algeria,pH,block_k5_30000,block,30000.0,30.0,2156,2156,0.6188462859234665,0.37082841134563893,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputpH\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),pH,block_k5_30000,block,30000.0,30.0,481,481,0.2082512092615306,-1.614745162066332,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputpH\y_pred_oof.npy
+climate_region,Sahara (arid desert),pH,block_k5_30000,block,30000.0,30.0,288,288,0.44128661593058294,-0.20238411298890657,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputpH\y_pred_oof.npy
+climate_region,Tell (Mediterranean),pH,block_k5_30000,block,30000.0,30.0,1387,1387,0.7347297897939871,0.2554497218682402,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputpH\y_pred_oof.npy
+climate_region,All Algeria,S%,block_k5_30000,block,30000.0,30.0,2156,2156,14.71511480780255,0.6439791340987322,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputS%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),S%,block_k5_30000,block,30000.0,30.0,481,481,8.670384449315293,0.009220074434396652,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputS%\y_pred_oof.npy
+climate_region,Sahara (arid desert),S%,block_k5_30000,block,30000.0,30.0,288,288,14.560222232973006,0.3664073873844229,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputS%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),S%,block_k5_30000,block,30000.0,30.0,1387,1387,16.32477555295761,0.6029266098921189,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputS%\y_pred_oof.npy
+climate_region,All Algeria,A%,block_k5_50000,block,50000.0,50.0,2156,2156,12.643684127561247,0.10552283489002923,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputA%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),A%,block_k5_50000,block,50000.0,50.0,481,481,5.032095083445363,0.18636242007664183,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputA%\y_pred_oof.npy
+climate_region,Sahara (arid desert),A%,block_k5_50000,block,50000.0,50.0,288,288,6.290754301373377,0.6061984095243225,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputA%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),A%,block_k5_50000,block,50000.0,50.0,1387,1387,15.215041572845148,0.017228961833994916,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputA%\y_pred_oof.npy
+climate_region,All Algeria,CE,block_k5_50000,block,50000.0,50.0,2156,2156,9.384170815726362,0.2797124593622974,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCE\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CE,block_k5_50000,block,50000.0,50.0,481,481,3.8763883719671837,0.08201016579571108,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCE\y_pred_oof.npy
+climate_region,Sahara (arid desert),CE,block_k5_50000,block,50000.0,50.0,288,288,9.55381366570301,-0.2352342076979752,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCE\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CE,block_k5_50000,block,50000.0,50.0,1387,1387,10.617153096192878,0.30673051837172327,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCE\y_pred_oof.npy
+climate_region,All Algeria,CEC,block_k5_50000,block,50000.0,50.0,2156,2156,2.4802867822744727,0.20450962532355832,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCEC\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CEC,block_k5_50000,block,50000.0,50.0,481,481,1.6318667600555654,-0.5658771116999541,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCEC\y_pred_oof.npy
+climate_region,Sahara (arid desert),CEC,block_k5_50000,block,50000.0,50.0,288,288,4.018114546325885,-0.09717526921874753,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCEC\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CEC,block_k5_50000,block,50000.0,50.0,1387,1387,2.2992743866602305,0.0520266659062667,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCEC\y_pred_oof.npy
+climate_region,All Algeria,L,block_k5_50000,block,50000.0,50.0,2156,2156,13.140605155308073,0.40291464640671837,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputL\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),L,block_k5_50000,block,50000.0,50.0,481,481,6.383789984098414,-0.7460820076486196,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputL\y_pred_oof.npy
+climate_region,Sahara (arid desert),L,block_k5_50000,block,50000.0,50.0,288,288,9.504217890320307,0.3482759812181385,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputL\y_pred_oof.npy
+climate_region,Tell (Mediterranean),L,block_k5_50000,block,50000.0,50.0,1387,1387,15.346777766823465,0.3212951512840829,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputL\y_pred_oof.npy
+climate_region,All Algeria,OM,block_k5_50000,block,50000.0,50.0,2156,2156,2.171296728688499,0.5942395113716029,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputOM\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),OM,block_k5_50000,block,50000.0,50.0,481,481,0.5202718127353496,0.09276816249547148,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputOM\y_pred_oof.npy
+climate_region,Sahara (arid desert),OM,block_k5_50000,block,50000.0,50.0,288,288,0.48131455502993964,-0.06568602048958283,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputOM\y_pred_oof.npy
+climate_region,Tell (Mediterranean),OM,block_k5_50000,block,50000.0,50.0,1387,1387,2.680755741259508,0.5114842006610332,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputOM\y_pred_oof.npy
+climate_region,All Algeria,pH,block_k5_50000,block,50000.0,50.0,2156,2156,0.6325873632597582,0.3425775211179688,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputpH\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),pH,block_k5_50000,block,50000.0,50.0,481,481,0.2208102664878569,-1.9396310638225787,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputpH\y_pred_oof.npy
+climate_region,Sahara (arid desert),pH,block_k5_50000,block,50000.0,50.0,288,288,0.4035449224184853,-0.005507912342395338,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputpH\y_pred_oof.npy
+climate_region,Tell (Mediterranean),pH,block_k5_50000,block,50000.0,50.0,1387,1387,0.7558505242926506,0.21202839093542714,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputpH\y_pred_oof.npy
+climate_region,All Algeria,S%,block_k5_50000,block,50000.0,50.0,2156,2156,20.089093956922163,0.3364573507385916,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputS%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),S%,block_k5_50000,block,50000.0,50.0,481,481,7.744387552370683,0.2095495597976953,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputS%\y_pred_oof.npy
+climate_region,Sahara (arid desert),S%,block_k5_50000,block,50000.0,50.0,288,288,17.236421598921478,0.11209129423310848,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputS%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),S%,block_k5_50000,block,50000.0,50.0,1387,1387,23.34174813074444,0.1882111108510367,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputS%\y_pred_oof.npy
+climate_region,All Algeria,A%,random,random,,,2156,2156,4.801827047620667,0.8709865437078861,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputA%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),A%,random,random,,,481,481,3.0959005364369028,0.6920307744701422,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputA%\y_pred_oof.npy
+climate_region,Sahara (arid desert),A%,random,random,,,288,288,5.885478435703101,0.6553045387203911,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputA%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),A%,random,random,,,1387,1387,5.032402533637249,0.8924880330294965,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputA%\y_pred_oof.npy
+climate_region,All Algeria,CE,random,random,,,2156,2156,6.161293423374319,0.6895026645558431,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCE\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CE,random,random,,,481,481,3.1297958284602383,0.40156729205885944,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCE\y_pred_oof.npy
+climate_region,Sahara (arid desert),CE,random,random,,,288,288,6.664358189830863,0.3989474569649415,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCE\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CE,random,random,,,1387,1387,6.810984061190614,0.7146974516080277,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCE\y_pred_oof.npy
+climate_region,All Algeria,CEC,random,random,,,2156,2156,1.8664082474772608,0.5495522508221486,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCEC\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CEC,random,random,,,481,481,1.021881338561361,0.385970523403125,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCEC\y_pred_oof.npy
+climate_region,Sahara (arid desert),CEC,random,random,,,288,288,3.2551732436874343,0.2799219084835268,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCEC\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CEC,random,random,,,1387,1387,1.6889330100246702,0.48850738665112525,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCEC\y_pred_oof.npy
+climate_region,All Algeria,L,random,random,,,2156,2156,6.0530599608729325,0.8733061195261523,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputL\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),L,random,random,,,481,481,3.2709274038412692,0.5415950846039055,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputL\y_pred_oof.npy
+climate_region,Sahara (arid desert),L,random,random,,,288,288,7.442684466561762,0.6003404700553412,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputL\y_pred_oof.npy
+climate_region,Tell (Mediterranean),L,random,random,,,1387,1387,6.460756781092191,0.879714486232289,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputL\y_pred_oof.npy
+climate_region,All Algeria,OM,random,random,,,2156,2156,1.2991681242528326,0.8547346243368574,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputOM\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),OM,random,random,,,481,481,0.43486032913988165,0.36619265426082004,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputOM\y_pred_oof.npy
+climate_region,Sahara (arid desert),OM,random,random,,,288,288,0.5099827316037202,-0.19641602222362842,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputOM\y_pred_oof.npy
+climate_region,Tell (Mediterranean),OM,random,random,,,1387,1387,1.5824186847263801,0.829781433378042,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputOM\y_pred_oof.npy
+climate_region,All Algeria,pH,random,random,,,2156,2156,0.40362129745798553,0.7323595979016733,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputpH\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),pH,random,random,,,481,481,0.1575172236084221,-0.4959270004162002,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputpH\y_pred_oof.npy
+climate_region,Sahara (arid desert),pH,random,random,,,288,288,0.39628123816124433,0.030363979427945775,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputpH\y_pred_oof.npy
+climate_region,Tell (Mediterranean),pH,random,random,,,1387,1387,0.46045704003570176,0.7075733376404277,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputpH\y_pred_oof.npy
+climate_region,All Algeria,S%,random,random,,,2156,2156,7.766382093343035,0.9008287815599075,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputS%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),S%,random,random,,,481,481,4.778544809864597,0.6990517550921828,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputS%\y_pred_oof.npy
+climate_region,Sahara (arid desert),S%,random,random,,,288,288,12.582007906425135,0.5268770608684179,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputS%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),S%,random,random,,,1387,1387,7.277930891207604,0.9210790688548587,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputS%\y_pred_oof.npy
+climate_region,All Algeria,A%,sp1_k5_10000,sp1,10000.0,10.0,2156,2156,7.941537815192915,0.6471166241060944,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputA%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),A%,sp1_k5_10000,sp1,10000.0,10.0,481,481,5.186312584514588,0.13572749069313184,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputA%\y_pred_oof.npy
+climate_region,Sahara (arid desert),A%,sp1_k5_10000,sp1,10000.0,10.0,288,288,6.176951015100164,0.6203177155543111,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputA%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),A%,sp1_k5_10000,sp1,10000.0,10.0,1387,1387,8.988025224952782,0.6570469827707499,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputA%\y_pred_oof.npy
+climate_region,All Algeria,CE,sp1_k5_10000,sp1,10000.0,10.0,2156,2156,8.990017204930467,0.33894873689659943,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCE\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CE,sp1_k5_10000,sp1,10000.0,10.0,481,481,3.569809340537618,0.22147358832375608,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCE\y_pred_oof.npy
+climate_region,Sahara (arid desert),CE,sp1_k5_10000,sp1,10000.0,10.0,288,288,7.812911708530029,0.17392094706728511,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCE\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CE,sp1_k5_10000,sp1,10000.0,10.0,1387,1387,10.418052612983308,0.3324880949976289,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCE\y_pred_oof.npy
+climate_region,All Algeria,CEC,sp1_k5_10000,sp1,10000.0,10.0,2156,2156,2.534560583022915,0.1693147779309696,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCEC\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CEC,sp1_k5_10000,sp1,10000.0,10.0,481,481,1.534304225802575,-0.38423952574817477,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCEC\y_pred_oof.npy
+climate_region,Sahara (arid desert),CEC,sp1_k5_10000,sp1,10000.0,10.0,288,288,3.8793481453426777,-0.022701507481655225,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCEC\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CEC,sp1_k5_10000,sp1,10000.0,10.0,1387,1387,2.4585402480848373,-0.08384995283556518,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCEC\y_pred_oof.npy
+climate_region,All Algeria,L,sp1_k5_10000,sp1,10000.0,10.0,2156,2156,8.56511811370875,0.74632807835357,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputL\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),L,sp1_k5_10000,sp1,10000.0,10.0,481,481,5.1805116292945055,-0.1498806374700996,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputL\y_pred_oof.npy
+climate_region,Sahara (arid desert),L,sp1_k5_10000,sp1,10000.0,10.0,288,288,8.911103570742274,0.42708005557744144,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputL\y_pred_oof.npy
+climate_region,Tell (Mediterranean),L,sp1_k5_10000,sp1,10000.0,10.0,1387,1387,9.393599518694316,0.7457209238317752,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputL\y_pred_oof.npy
+climate_region,All Algeria,OM,sp1_k5_10000,sp1,10000.0,10.0,2156,2156,2.008507308174213,0.652801187312735,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputOM\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),OM,sp1_k5_10000,sp1,10000.0,10.0,481,481,1.0200890069981379,-2.487657447915217,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputOM\y_pred_oof.npy
+climate_region,Sahara (arid desert),OM,sp1_k5_10000,sp1,10000.0,10.0,288,288,0.4912854464884626,-0.11029677137445137,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputOM\y_pred_oof.npy
+climate_region,Tell (Mediterranean),OM,sp1_k5_10000,sp1,10000.0,10.0,1387,1387,2.420694729378622,0.6016689384689605,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputOM\y_pred_oof.npy
+climate_region,All Algeria,pH,sp1_k5_10000,sp1,10000.0,10.0,2156,2156,0.5598586393636661,0.48505565390841654,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputpH\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),pH,sp1_k5_10000,sp1,10000.0,10.0,481,481,0.18934684211953193,-1.1615756389586211,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputpH\y_pred_oof.npy
+climate_region,Sahara (arid desert),pH,sp1_k5_10000,sp1,10000.0,10.0,288,288,0.4180740650334938,-0.07921549564066743,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputpH\y_pred_oof.npy
+climate_region,Tell (Mediterranean),pH,sp1_k5_10000,sp1,10000.0,10.0,1387,1387,0.6621919804163943,0.39520726396501205,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputpH\y_pred_oof.npy
+climate_region,All Algeria,S%,sp1_k5_10000,sp1,10000.0,10.0,2156,2156,12.407664281421404,0.7468789807062056,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputS%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),S%,sp1_k5_10000,sp1,10000.0,10.0,481,481,6.299000787146113,0.4770696907882467,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputS%\y_pred_oof.npy
+climate_region,Sahara (arid desert),S%,sp1_k5_10000,sp1,10000.0,10.0,288,288,13.435937585446077,0.46047688874167947,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputS%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),S%,sp1_k5_10000,sp1,10000.0,10.0,1387,1387,13.713533785140918,0.7197954987968742,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputS%\y_pred_oof.npy
+climate_region,All Algeria,A%,sp1_k5_20000,sp1,20000.0,20.0,2156,2156,10.612365988962258,0.3698464006026845,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputA%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),A%,sp1_k5_20000,sp1,20000.0,20.0,481,481,5.7999604088498495,-0.0808946818887073,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputA%\y_pred_oof.npy
+climate_region,Sahara (arid desert),A%,sp1_k5_20000,sp1,20000.0,20.0,288,288,7.778384496122404,0.39792466834565865,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputA%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),A%,sp1_k5_20000,sp1,20000.0,20.0,1387,1387,12.281490134573007,0.3596635996871338,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputA%\y_pred_oof.npy
+climate_region,All Algeria,CE,sp1_k5_20000,sp1,20000.0,20.0,2156,2156,9.11911161313409,0.31982736348602625,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCE\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CE,sp1_k5_20000,sp1,20000.0,20.0,481,481,7.703855145789194,-2.6257639287817924,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCE\y_pred_oof.npy
+climate_region,Sahara (arid desert),CE,sp1_k5_20000,sp1,20000.0,20.0,288,288,9.332585155023327,-0.1786902726666797,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCE\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CE,sp1_k5_20000,sp1,20000.0,20.0,1387,1387,9.51824568162505,0.44281457963669013,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCE\y_pred_oof.npy
+climate_region,All Algeria,CEC,sp1_k5_20000,sp1,20000.0,20.0,2156,2156,2.731242573876471,0.03539018112608516,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCEC\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CEC,sp1_k5_20000,sp1,20000.0,20.0,481,481,3.0178049091140733,-4.355137236032479,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCEC\y_pred_oof.npy
+climate_region,Sahara (arid desert),CEC,sp1_k5_20000,sp1,20000.0,20.0,288,288,3.7674749020895617,0.03543362312541942,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCEC\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CEC,sp1_k5_20000,sp1,20000.0,20.0,1387,1387,2.343087491458026,0.015554837167819247,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCEC\y_pred_oof.npy
+climate_region,All Algeria,L,sp1_k5_20000,sp1,20000.0,20.0,2156,2156,14.596736491567261,0.26325495754587636,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputL\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),L,sp1_k5_20000,sp1,20000.0,20.0,481,481,7.590234301372245,-1.4684129697910255,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputL\y_pred_oof.npy
+climate_region,Sahara (arid desert),L,sp1_k5_20000,sp1,20000.0,20.0,288,288,10.003518020600566,0.2780011994833357,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputL\y_pred_oof.npy
+climate_region,Tell (Mediterranean),L,sp1_k5_20000,sp1,20000.0,20.0,1387,1387,17.04221092016358,0.16305211677316978,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputL\y_pred_oof.npy
+climate_region,All Algeria,OM,sp1_k5_20000,sp1,20000.0,20.0,2156,2156,1.948465688772587,0.6732490011501058,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputOM\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),OM,sp1_k5_20000,sp1,20000.0,20.0,481,481,0.6863329447324147,-0.578800952855433,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputOM\y_pred_oof.npy
+climate_region,Sahara (arid desert),OM,sp1_k5_20000,sp1,20000.0,20.0,288,288,0.5770297269516865,-0.5316786313892754,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputOM\y_pred_oof.npy
+climate_region,Tell (Mediterranean),OM,sp1_k5_20000,sp1,20000.0,20.0,1387,1387,2.380954243136265,0.6146403640560021,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputOM\y_pred_oof.npy
+climate_region,All Algeria,pH,sp1_k5_20000,sp1,20000.0,20.0,2156,2156,0.6352488588779245,0.3370339140941483,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputpH\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),pH,sp1_k5_20000,sp1,20000.0,20.0,481,481,0.2581628302556963,-3.018294209255127,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputpH\y_pred_oof.npy
+climate_region,Sahara (arid desert),pH,sp1_k5_20000,sp1,20000.0,20.0,288,288,0.5008818072790736,-0.549074245803886,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputpH\y_pred_oof.npy
+climate_region,Tell (Mediterranean),pH,sp1_k5_20000,sp1,20000.0,20.0,1387,1387,0.743014934229856,0.23856327670452093,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputpH\y_pred_oof.npy
+climate_region,All Algeria,S%,sp1_k5_20000,sp1,20000.0,20.0,2156,2156,17.06862419263287,0.5209893433369961,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputS%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),S%,sp1_k5_20000,sp1,20000.0,20.0,481,481,14.901484686786619,-1.9265744102942262,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputS%\y_pred_oof.npy
+climate_region,Sahara (arid desert),S%,sp1_k5_20000,sp1,20000.0,20.0,288,288,13.72338186091906,0.4371451747074633,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputS%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),S%,sp1_k5_20000,sp1,20000.0,20.0,1387,1387,18.35084458600898,0.49824875329168894,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputS%\y_pred_oof.npy
+climate_region,All Algeria,A%,sp1_k5_30000,sp1,30000.0,30.0,2156,2156,10.88138173323729,0.3374936039366577,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputA%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),A%,sp1_k5_30000,sp1,30000.0,30.0,481,481,4.663733875043244,0.30112284737387607,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputA%\y_pred_oof.npy
+climate_region,Sahara (arid desert),A%,sp1_k5_30000,sp1,30000.0,30.0,288,288,6.5222920462250515,0.5766763796452032,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputA%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),A%,sp1_k5_30000,sp1,30000.0,30.0,1387,1387,12.948973130335125,0.2881692872132703,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputA%\y_pred_oof.npy
+climate_region,All Algeria,CE,sp1_k5_30000,sp1,30000.0,30.0,2156,2156,9.220362575114574,0.3046393794636898,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCE\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CE,sp1_k5_30000,sp1,30000.0,30.0,481,481,6.21679544831791,-1.361111320896108,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCE\y_pred_oof.npy
+climate_region,Sahara (arid desert),CE,sp1_k5_30000,sp1,30000.0,30.0,288,288,9.669910653428303,-0.26543749808577766,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCE\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CE,sp1_k5_30000,sp1,30000.0,30.0,1387,1387,9.966508785234359,0.389097319388074,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCE\y_pred_oof.npy
+climate_region,All Algeria,CEC,sp1_k5_30000,sp1,30000.0,30.0,2156,2156,2.49071112048735,0.19780887856890073,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCEC\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CEC,sp1_k5_30000,sp1,30000.0,30.0,481,481,1.7685450657671338,-0.8391643727530917,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCEC\y_pred_oof.npy
+climate_region,Sahara (arid desert),CEC,sp1_k5_30000,sp1,30000.0,30.0,288,288,3.560444195385224,0.13853080969784815,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCEC\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CEC,sp1_k5_30000,sp1,30000.0,30.0,1387,1387,2.4343871014060103,-0.06265868188422874,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCEC\y_pred_oof.npy
+climate_region,All Algeria,L,sp1_k5_30000,sp1,30000.0,30.0,2156,2156,14.548662544949355,0.2680998648118256,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputL\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),L,sp1_k5_30000,sp1,30000.0,30.0,481,481,6.345619871436629,-0.7252639998501562,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputL\y_pred_oof.npy
+climate_region,Sahara (arid desert),L,sp1_k5_30000,sp1,30000.0,30.0,288,288,9.752414550340054,0.31379280732455417,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputL\y_pred_oof.npy
+climate_region,Tell (Mediterranean),L,sp1_k5_30000,sp1,30000.0,30.0,1387,1387,17.184413592971495,0.14902661610809398,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputL\y_pred_oof.npy
+climate_region,All Algeria,OM,sp1_k5_30000,sp1,30000.0,30.0,2156,2156,2.7211991438643315,0.3626880673016788,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputOM\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),OM,sp1_k5_30000,sp1,30000.0,30.0,481,481,0.7260136422596486,-0.7666367102692078,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputOM\y_pred_oof.npy
+climate_region,Sahara (arid desert),OM,sp1_k5_30000,sp1,30000.0,30.0,288,288,0.5346912742102595,-0.3151566107825716,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputOM\y_pred_oof.npy
+climate_region,Tell (Mediterranean),OM,sp1_k5_30000,sp1,30000.0,30.0,1387,1387,3.356830466434046,0.23401028068651863,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputOM\y_pred_oof.npy
+climate_region,All Algeria,pH,sp1_k5_30000,sp1,30000.0,30.0,2156,2156,0.6445700118114398,0.3174354666580065,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputpH\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),pH,sp1_k5_30000,sp1,30000.0,30.0,481,481,0.21063449078804672,-1.6749352787958087,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputpH\y_pred_oof.npy
+climate_region,Sahara (arid desert),pH,sp1_k5_30000,sp1,30000.0,30.0,288,288,0.4174264183490636,-0.07587441798408245,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputpH\y_pred_oof.npy
+climate_region,Tell (Mediterranean),pH,sp1_k5_30000,sp1,30000.0,30.0,1387,1387,0.7708792432108866,0.1803820962437369,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputpH\y_pred_oof.npy
+climate_region,All Algeria,S%,sp1_k5_30000,sp1,30000.0,30.0,2156,2156,15.75961952603129,0.5916433811262238,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputS%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),S%,sp1_k5_30000,sp1,30000.0,30.0,481,481,11.880029009041376,-0.8600965678045849,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputS%\y_pred_oof.npy
+climate_region,Sahara (arid desert),S%,sp1_k5_30000,sp1,30000.0,30.0,288,288,15.05310495755538,0.3227854551073408,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputS%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),S%,sp1_k5_30000,sp1,30000.0,30.0,1387,1387,17.031516504920496,0.5678017685848316,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputS%\y_pred_oof.npy
+climate_region,All Algeria,A%,sp1_k5_50000,sp1,50000.0,50.0,2156,2156,11.962070547587038,0.19936475971507273,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputA%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),A%,sp1_k5_50000,sp1,50000.0,50.0,481,481,6.434224873005998,-0.33022710366015384,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputA%\y_pred_oof.npy
+climate_region,Sahara (arid desert),A%,sp1_k5_50000,sp1,50000.0,50.0,288,288,7.440832362917396,0.44904635589366715,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputA%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),A%,sp1_k5_50000,sp1,50000.0,50.0,1387,1387,14.020430992014695,0.16549529196287505,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputA%\y_pred_oof.npy
+climate_region,All Algeria,CE,sp1_k5_50000,sp1,50000.0,50.0,2156,2156,10.172676637142779,0.15358261906569048,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCE\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CE,sp1_k5_50000,sp1,50000.0,50.0,481,481,5.853164150755932,-1.0929782515310964,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCE\y_pred_oof.npy
+climate_region,Sahara (arid desert),CE,sp1_k5_50000,sp1,50000.0,50.0,288,288,9.088256146046279,-0.11778144068993246,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCE\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CE,sp1_k5_50000,sp1,50000.0,50.0,1387,1387,11.481576891530398,0.18924618637489898,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCE\y_pred_oof.npy
+climate_region,All Algeria,CEC,sp1_k5_50000,sp1,50000.0,50.0,2156,2156,2.479677695191946,0.20490027645511932,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCEC\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CEC,sp1_k5_50000,sp1,50000.0,50.0,481,481,1.5113999873137536,-0.3432198838380749,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCEC\y_pred_oof.npy
+climate_region,Sahara (arid desert),CEC,sp1_k5_50000,sp1,50000.0,50.0,288,288,3.6804119324129925,0.07949904468952795,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCEC\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CEC,sp1_k5_50000,sp1,50000.0,50.0,1387,1387,2.4399003708104217,-0.06747743717285282,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCEC\y_pred_oof.npy
+climate_region,All Algeria,L,sp1_k5_50000,sp1,50000.0,50.0,2156,2156,13.220120831713189,0.3956666860268867,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputL\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),L,sp1_k5_50000,sp1,50000.0,50.0,481,481,5.769537066198685,-0.42622942009352327,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputL\y_pred_oof.npy
+climate_region,Sahara (arid desert),L,sp1_k5_50000,sp1,50000.0,50.0,288,288,9.849844941819349,0.3000133682155317,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputL\y_pred_oof.npy
+climate_region,Tell (Mediterranean),L,sp1_k5_50000,sp1,50000.0,50.0,1387,1387,15.491343321951183,0.30844822355529156,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputL\y_pred_oof.npy
+climate_region,All Algeria,OM,sp1_k5_50000,sp1,50000.0,50.0,2156,2156,2.4329338668934617,0.4905612142708714,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputOM\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),OM,sp1_k5_50000,sp1,50000.0,50.0,481,481,1.016622966212036,-2.4639971083481194,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputOM\y_pred_oof.npy
+climate_region,Sahara (arid desert),OM,sp1_k5_50000,sp1,50000.0,50.0,288,288,0.5729026366442117,-0.509846931747368,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputOM\y_pred_oof.npy
+climate_region,Tell (Mediterranean),OM,sp1_k5_50000,sp1,50000.0,50.0,1387,1387,2.9621590437009817,0.4035406234689377,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputOM\y_pred_oof.npy
+climate_region,All Algeria,pH,sp1_k5_50000,sp1,50000.0,50.0,2156,2156,0.6494822599358828,0.3069922174808901,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputpH\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),pH,sp1_k5_50000,sp1,50000.0,50.0,481,481,0.1914072854342851,-1.2088754706447644,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputpH\y_pred_oof.npy
+climate_region,Sahara (arid desert),pH,sp1_k5_50000,sp1,50000.0,50.0,288,288,0.44536704275877365,-0.2247229892668854,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputpH\y_pred_oof.npy
+climate_region,Tell (Mediterranean),pH,sp1_k5_50000,sp1,50000.0,50.0,1387,1387,0.7757647856331951,0.16996031649651822,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputpH\y_pred_oof.npy
+climate_region,All Algeria,S%,sp1_k5_50000,sp1,50000.0,50.0,2156,2156,21.713030919707258,0.22484412297230993,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputS%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),S%,sp1_k5_50000,sp1,50000.0,50.0,481,481,9.488241960770914,-0.18651160819590196,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputS%\y_pred_oof.npy
+climate_region,Sahara (arid desert),S%,sp1_k5_50000,sp1,50000.0,50.0,288,288,15.979747793764744,0.23684291788252065,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputS%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),S%,sp1_k5_50000,sp1,50000.0,50.0,1387,1387,25.467711167512896,0.03360165491221323,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputS%\y_pred_oof.npy
+climate_region,All Algeria,A%,sp2_k5,sp2,,,2156,2156,10.198505100911918,0.4180374770678693,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputA%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),A%,sp2_k5,sp2,,,481,481,5.925287511141318,-0.1281118954787448,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputA%\y_pred_oof.npy
+climate_region,Sahara (arid desert),A%,sp2_k5,sp2,,,288,288,7.290657886962914,0.4710611600907355,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputA%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),A%,sp2_k5,sp2,,,1387,1387,11.76704879864392,0.4121843130415078,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputA%\y_pred_oof.npy
+climate_region,All Algeria,CE,sp2_k5,sp2,,,2156,2156,8.536216514700937,0.4040018140761089,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCE\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CE,sp2_k5,sp2,,,481,481,6.450590354074161,-1.5420391404258713,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCE\y_pred_oof.npy
+climate_region,Sahara (arid desert),CE,sp2_k5,sp2,,,288,288,10.663832791949378,-0.5389426306247311,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCE\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CE,sp2_k5,sp2,,,1387,1387,8.673197443115903,0.5373587111458238,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCE\y_pred_oof.npy
+climate_region,All Algeria,CEC,sp2_k5,sp2,,,2156,2156,2.4180223707825927,0.24394783673975562,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCEC\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CEC,sp2_k5,sp2,,,481,481,2.180647434541145,-1.7961418090914663,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCEC\y_pred_oof.npy
+climate_region,Sahara (arid desert),CEC,sp2_k5,sp2,,,288,288,3.721633296234637,0.058763976196336776,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCEC\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CEC,sp2_k5,sp2,,,1387,1387,2.136230559549418,0.18170336499892492,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCEC\y_pred_oof.npy
+climate_region,All Algeria,L,sp2_k5,sp2,,,2156,2156,11.313344055436962,0.5574241868588676,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputL\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),L,sp2_k5,sp2,,,481,481,7.701178499155294,-1.5411004580408876,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputL\y_pred_oof.npy
+climate_region,Sahara (arid desert),L,sp2_k5,sp2,,,288,288,9.31025456748008,0.3746054816803086,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputL\y_pred_oof.npy
+climate_region,Tell (Mediterranean),L,sp2_k5,sp2,,,1387,1387,12.664460112788648,0.5378106815792651,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputL\y_pred_oof.npy
+climate_region,All Algeria,OM,sp2_k5,sp2,,,2156,2156,1.9197115673955922,0.6828217765065148,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputOM\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),OM,sp2_k5,sp2,,,481,481,0.571851760952975,-0.09603548108448101,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputOM\y_pred_oof.npy
+climate_region,Sahara (arid desert),OM,sp2_k5,sp2,,,288,288,0.5944177385402792,-0.6253795863006055,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputOM\y_pred_oof.npy
+climate_region,Tell (Mediterranean),OM,sp2_k5,sp2,,,1387,1387,2.354096729058732,0.6232851569858546,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputOM\y_pred_oof.npy
+climate_region,All Algeria,pH,sp2_k5,sp2,,,2156,2156,0.4897101362909572,0.6060131631927697,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputpH\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),pH,sp2_k5,sp2,,,481,481,0.24028904724261776,-2.48114613661596,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputpH\y_pred_oof.npy
+climate_region,Sahara (arid desert),pH,sp2_k5,sp2,,,288,288,0.39467912101076563,0.03818837332930547,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputpH\y_pred_oof.npy
+climate_region,Tell (Mediterranean),pH,sp2_k5,sp2,,,1387,1387,0.566047742715834,0.5580787774407859,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputpH\y_pred_oof.npy
+climate_region,All Algeria,S%,sp2_k5,sp2,,,2156,2156,16.35993178131174,0.5599407854593348,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputS%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),S%,sp2_k5,sp2,,,481,481,10.749357802864491,-0.522879453442815,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputS%\y_pred_oof.npy
+climate_region,Sahara (arid desert),S%,sp2_k5,sp2,,,288,288,17.97149304968626,0.03474420834318115,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputS%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),S%,sp2_k5,sp2,,,1387,1387,17.57571179533134,0.5397411046296626,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputS%\y_pred_oof.npy
+climate_region,All Algeria,A%,sp_k5_10000,sp,10000.0,10.0,2156,2156,14.076831270041852,-0.10874530327052145,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputA%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),A%,sp_k5_10000,sp,10000.0,10.0,481,481,6.854040080568702,-0.5094773526065028,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputA%\y_pred_oof.npy
+climate_region,Sahara (arid desert),A%,sp_k5_10000,sp,10000.0,10.0,288,288,6.97798234154202,0.5154576385554868,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputA%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),A%,sp_k5_10000,sp,10000.0,10.0,1387,1387,16.78154218696924,-0.19555566300254923,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputA%\y_pred_oof.npy
+climate_region,All Algeria,CE,sp_k5_10000,sp,10000.0,10.0,2156,2156,11.300942282623147,-0.044584091218413224,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCE\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CE,sp_k5_10000,sp,10000.0,10.0,481,481,6.23902690841151,-1.3780283345598514,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCE\y_pred_oof.npy
+climate_region,Sahara (arid desert),CE,sp_k5_10000,sp,10000.0,10.0,288,288,8.437206605701595,0.03662994044958845,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCE\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CE,sp_k5_10000,sp,10000.0,10.0,1387,1387,13.047545227319448,-0.046992437767055195,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCE\y_pred_oof.npy
+climate_region,All Algeria,CEC,sp_k5_10000,sp,10000.0,10.0,2156,2156,2.7230065895481266,0.04119891682977728,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCEC\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CEC,sp_k5_10000,sp,10000.0,10.0,481,481,2.9856029857800648,-4.241461454857618,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCEC\y_pred_oof.npy
+climate_region,Sahara (arid desert),CEC,sp_k5_10000,sp,10000.0,10.0,288,288,3.778694648570697,0.029680005632617523,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCEC\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CEC,sp_k5_10000,sp,10000.0,10.0,1387,1387,2.3387376978504753,0.019206564674527082,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCEC\y_pred_oof.npy
+climate_region,All Algeria,L,sp_k5_10000,sp,10000.0,10.0,2156,2156,16.06710065271628,0.10735101619450871,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputL\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),L,sp_k5_10000,sp,10000.0,10.0,481,481,15.075477842908468,-8.737548384429456,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputL\y_pred_oof.npy
+climate_region,Sahara (arid desert),L,sp_k5_10000,sp,10000.0,10.0,288,288,11.143686816731766,0.10403972439201081,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputL\y_pred_oof.npy
+climate_region,Tell (Mediterranean),L,sp_k5_10000,sp,10000.0,10.0,1387,1387,17.224374599610393,0.14506427061222404,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputL\y_pred_oof.npy
+climate_region,All Algeria,OM,sp_k5_10000,sp,10000.0,10.0,2156,2156,3.5443865026608194,-0.08121869632611256,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputOM\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),OM,sp_k5_10000,sp,10000.0,10.0,481,481,0.7976462163073937,-1.1324472980542528,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputOM\y_pred_oof.npy
+climate_region,Sahara (arid desert),OM,sp_k5_10000,sp,10000.0,10.0,288,288,0.5400048930694498,-0.3414258429295036,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputOM\y_pred_oof.npy
+climate_region,Tell (Mediterranean),OM,sp_k5_10000,sp,10000.0,10.0,1387,1387,4.387101370689099,-0.30833651831131204,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputOM\y_pred_oof.npy
+climate_region,All Algeria,pH,sp_k5_10000,sp,10000.0,10.0,2156,2156,0.8241986879404652,-0.11600814202988108,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputpH\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),pH,sp_k5_10000,sp,10000.0,10.0,481,481,0.7030731100529974,-28.802677308850537,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputpH\y_pred_oof.npy
+climate_region,Sahara (arid desert),pH,sp_k5_10000,sp,10000.0,10.0,288,288,0.4208032216365812,-0.09335156314922277,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputpH\y_pred_oof.npy
+climate_region,Tell (Mediterranean),pH,sp_k5_10000,sp,10000.0,10.0,1387,1387,0.9207284586583218,-0.16923515980856174,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputpH\y_pred_oof.npy
+climate_region,All Algeria,S%,sp_k5_10000,sp,10000.0,10.0,2156,2156,21.92224934716132,0.2098339448576957,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputS%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),S%,sp_k5_10000,sp,10000.0,10.0,481,481,11.902715466574849,-0.8672075427015977,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputS%\y_pred_oof.npy
+climate_region,Sahara (arid desert),S%,sp_k5_10000,sp,10000.0,10.0,288,288,17.30041230145145,0.10548628395630766,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputS%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),S%,sp_k5_10000,sp,10000.0,10.0,1387,1387,25.214239451316352,0.05274241468556318,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputS%\y_pred_oof.npy
+climate_region,All Algeria,A%,sp_k5_20000,sp,20000.0,20.0,2156,2156,14.789554237759365,-0.22386115858223343,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputA%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),A%,sp_k5_20000,sp,20000.0,20.0,481,481,5.48445547811986,0.03350335095548973,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputA%\y_pred_oof.npy
+climate_region,Sahara (arid desert),A%,sp_k5_20000,sp,20000.0,20.0,288,288,7.186950402068566,0.4860021352366741,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputA%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),A%,sp_k5_20000,sp,20000.0,20.0,1387,1387,17.85626909438596,-0.35359115280106,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputA%\y_pred_oof.npy
+climate_region,All Algeria,CE,sp_k5_20000,sp,20000.0,20.0,2156,2156,15.546033406607238,-0.9767570068183054,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCE\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CE,sp_k5_20000,sp,20000.0,20.0,481,481,4.791799788712177,-0.4027511572269151,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCE\y_pred_oof.npy
+climate_region,Sahara (arid desert),CE,sp_k5_20000,sp,20000.0,20.0,288,288,8.202291552752444,0.08952886554669526,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCE\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CE,sp_k5_20000,sp,20000.0,20.0,1387,1387,18.808025436279923,-1.175566335168781,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCE\y_pred_oof.npy
+climate_region,All Algeria,CEC,sp_k5_20000,sp,20000.0,20.0,2156,2156,2.5450509971901276,0.16242422186639494,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCEC\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CEC,sp_k5_20000,sp,20000.0,20.0,481,481,2.0021880352690604,-1.3572085471965818,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCEC\y_pred_oof.npy
+climate_region,Sahara (arid desert),CEC,sp_k5_20000,sp,20000.0,20.0,288,288,3.6806151680973427,0.0793973800876524,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCEC\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CEC,sp_k5_20000,sp,20000.0,20.0,1387,1387,2.4218570635743837,-0.05174761005485462,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCEC\y_pred_oof.npy
+climate_region,All Algeria,L,sp_k5_20000,sp,20000.0,20.0,2156,2156,18.359464860281555,-0.1655360822493781,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputL\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),L,sp_k5_20000,sp,20000.0,20.0,481,481,9.786244594269153,-3.1033596875643346,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputL\y_pred_oof.npy
+climate_region,Sahara (arid desert),L,sp_k5_20000,sp,20000.0,20.0,288,288,10.69599064836981,0.17458380149585684,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputL\y_pred_oof.npy
+climate_region,Tell (Mediterranean),L,sp_k5_20000,sp,20000.0,20.0,1387,1387,21.609844937980704,-0.34570493340110553,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputL\y_pred_oof.npy
+climate_region,All Algeria,OM,sp_k5_20000,sp,20000.0,20.0,2156,2156,3.031757072884167,0.20892037753525372,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputOM\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),OM,sp_k5_20000,sp,20000.0,20.0,481,481,0.9256533822286057,-1.8718018603130266,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputOM\y_pred_oof.npy
+climate_region,Sahara (arid desert),OM,sp_k5_20000,sp,20000.0,20.0,288,288,0.47978004759590864,-0.05890169909159182,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputOM\y_pred_oof.npy
+climate_region,Tell (Mediterranean),OM,sp_k5_20000,sp,20000.0,20.0,1387,1387,3.733995137143028,0.05221109485472608,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputOM\y_pred_oof.npy
+climate_region,All Algeria,pH,sp_k5_20000,sp,20000.0,20.0,2156,2156,0.7525920905000812,0.06948618600743472,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputpH\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),pH,sp_k5_20000,sp,20000.0,20.0,481,481,0.4351385965821113,-10.415883225902125,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputpH\y_pred_oof.npy
+climate_region,Sahara (arid desert),pH,sp_k5_20000,sp,20000.0,20.0,288,288,0.39292222936168375,0.0467322141533858,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputpH\y_pred_oof.npy
+climate_region,Tell (Mediterranean),pH,sp_k5_20000,sp,20000.0,20.0,1387,1387,0.8847047519872346,-0.07953183148271403,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputpH\y_pred_oof.npy
+climate_region,All Algeria,S%,sp_k5_20000,sp,20000.0,20.0,2156,2156,22.93718993819744,0.1349751889585893,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputS%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),S%,sp_k5_20000,sp,20000.0,20.0,481,481,10.842884296372047,-0.5494948463808054,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputS%\y_pred_oof.npy
+climate_region,Sahara (arid desert),S%,sp_k5_20000,sp,20000.0,20.0,288,288,15.493696301791655,0.28256233110960194,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputS%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),S%,sp_k5_20000,sp,20000.0,20.0,1387,1387,26.966523716195653,-0.08349341268148414,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputS%\y_pred_oof.npy
+climate_region,All Algeria,A%,sp_k5_30000,sp,30000.0,30.0,2156,2156,15.095865902444254,-0.27508178485769275,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputA%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),A%,sp_k5_30000,sp,30000.0,30.0,481,481,7.181883824663305,-0.6573341271511708,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputA%\y_pred_oof.npy
+climate_region,Sahara (arid desert),A%,sp_k5_30000,sp,30000.0,30.0,288,288,8.043371613838495,0.356203979891081,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputA%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),A%,sp_k5_30000,sp,30000.0,30.0,1387,1387,17.96973953751755,-0.3708490246581819,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputA%\y_pred_oof.npy
+climate_region,All Algeria,CE,sp_k5_30000,sp,30000.0,30.0,2156,2156,10.391529504678346,0.11677156243267395,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCE\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CE,sp_k5_30000,sp,30000.0,30.0,481,481,4.389119901847091,-0.17689630050701233,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCE\y_pred_oof.npy
+climate_region,Sahara (arid desert),CE,sp_k5_30000,sp,30000.0,30.0,288,288,9.770029118294389,-0.2917768371974896,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCE\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CE,sp_k5_30000,sp,30000.0,30.0,1387,1387,11.889193238440871,0.1306579345935962,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCE\y_pred_oof.npy
+climate_region,All Algeria,CEC,sp_k5_30000,sp,30000.0,30.0,2156,2156,2.6545750765361276,0.0887843786075303,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCEC\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CEC,sp_k5_30000,sp,30000.0,30.0,481,481,1.9890202296954722,-1.3263051602845293,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCEC\y_pred_oof.npy
+climate_region,Sahara (arid desert),CEC,sp_k5_30000,sp,30000.0,30.0,288,288,3.6127170481629185,0.11304970930127345,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCEC\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CEC,sp_k5_30000,sp,30000.0,30.0,1387,1387,2.6213867302191742,-0.23218725255705275,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCEC\y_pred_oof.npy
+climate_region,All Algeria,L,sp_k5_30000,sp,30000.0,30.0,2156,2156,12.629502617476295,0.4484585192694308,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputL\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),L,sp_k5_30000,sp,30000.0,30.0,481,481,6.802011537544841,-0.9823584376357573,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputL\y_pred_oof.npy
+climate_region,Sahara (arid desert),L,sp_k5_30000,sp,30000.0,30.0,288,288,9.759272047268748,0.3128274426742833,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputL\y_pred_oof.npy
+climate_region,Tell (Mediterranean),L,sp_k5_30000,sp,30000.0,30.0,1387,1387,14.564246253395075,0.3887447951656139,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputL\y_pred_oof.npy
+climate_region,All Algeria,OM,sp_k5_30000,sp,30000.0,30.0,2156,2156,3.1260818587849353,0.1589300995359929,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputOM\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),OM,sp_k5_30000,sp,30000.0,30.0,481,481,0.9550240846921791,-2.0569359277198926,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputOM\y_pred_oof.npy
+climate_region,Sahara (arid desert),OM,sp_k5_30000,sp,30000.0,30.0,288,288,0.4793782490300022,-0.057128857430696955,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputOM\y_pred_oof.npy
+climate_region,Tell (Mediterranean),OM,sp_k5_30000,sp,30000.0,30.0,1387,1387,3.8505215995881654,-0.00786706203550036,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputOM\y_pred_oof.npy
+climate_region,All Algeria,pH,sp_k5_30000,sp,30000.0,30.0,2156,2156,0.787875715089782,-0.01980926691625573,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputpH\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),pH,sp_k5_30000,sp,30000.0,30.0,481,481,0.4673550021422863,-12.168857401693687,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputpH\y_pred_oof.npy
+climate_region,Sahara (arid desert),pH,sp_k5_30000,sp,30000.0,30.0,288,288,0.4012420592546191,0.00593537474389072,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputpH\y_pred_oof.npy
+climate_region,Tell (Mediterranean),pH,sp_k5_30000,sp,30000.0,30.0,1387,1387,0.9250600730979274,-0.18026249228222402,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputpH\y_pred_oof.npy
+climate_region,All Algeria,S%,sp_k5_30000,sp,30000.0,30.0,2156,2156,23.82890797164812,0.06640950277872582,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputS%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),S%,sp_k5_30000,sp,30000.0,30.0,481,481,15.990248930155992,-2.369852861686881,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputS%\y_pred_oof.npy
+climate_region,Sahara (arid desert),S%,sp_k5_30000,sp,30000.0,30.0,288,288,18.79423951686873,-0.055658896756657805,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputS%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),S%,sp_k5_30000,sp,30000.0,30.0,1387,1387,26.84435138176574,-0.07369807814177332,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputS%\y_pred_oof.npy
+climate_region,All Algeria,A%,sp_k5_50000,sp,50000.0,50.0,2156,2156,14.585002738325942,-0.19024129276234825,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputA%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),A%,sp_k5_50000,sp,50000.0,50.0,481,481,6.409948216845262,-0.32020801225243445,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputA%\y_pred_oof.npy
+climate_region,Sahara (arid desert),A%,sp_k5_50000,sp,50000.0,50.0,288,288,8.0348032805073,0.3575748778228742,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputA%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),A%,sp_k5_50000,sp,50000.0,50.0,1387,1387,17.407154264491645,-0.2863573107095547,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputA%\y_pred_oof.npy
+climate_region,All Algeria,CE,sp_k5_50000,sp,50000.0,50.0,2156,2156,11.202997358527876,-0.026555799287380832,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCE\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CE,sp_k5_50000,sp,50000.0,50.0,481,481,6.964341539195699,-1.9630803614015213,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCE\y_pred_oof.npy
+climate_region,Sahara (arid desert),CE,sp_k5_50000,sp,50000.0,50.0,288,288,9.22671990078085,-0.15210072606690495,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCE\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CE,sp_k5_50000,sp,50000.0,50.0,1387,1387,12.672623695055393,0.01231376564514608,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCE\y_pred_oof.npy
+climate_region,All Algeria,CEC,sp_k5_50000,sp,50000.0,50.0,2156,2156,2.6760223332674458,0.07400082754250259,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCEC\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),CEC,sp_k5_50000,sp,50000.0,50.0,481,481,2.0049389204031836,-1.3636903205660542,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCEC\y_pred_oof.npy
+climate_region,Sahara (arid desert),CEC,sp_k5_50000,sp,50000.0,50.0,288,288,4.075006084420899,-0.12846451339748688,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCEC\y_pred_oof.npy
+climate_region,Tell (Mediterranean),CEC,sp_k5_50000,sp,50000.0,50.0,1387,1387,2.507864121595933,-0.12777515519780702,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCEC\y_pred_oof.npy
+climate_region,All Algeria,L,sp_k5_50000,sp,50000.0,50.0,2156,2156,20.23488897295342,-0.41581770139353713,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputL\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),L,sp_k5_50000,sp,50000.0,50.0,481,481,5.773027871709518,-0.42795579627152813,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputL\y_pred_oof.npy
+climate_region,Sahara (arid desert),L,sp_k5_50000,sp,50000.0,50.0,288,288,10.420355260007389,0.21657755562712333,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputL\y_pred_oof.npy
+climate_region,Tell (Mediterranean),L,sp_k5_50000,sp,50000.0,50.0,1387,1387,24.543017954271708,-0.7358111491294663,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputL\y_pred_oof.npy
+climate_region,All Algeria,OM,sp_k5_50000,sp,50000.0,50.0,2156,2156,3.465103981621662,-0.03338925581247909,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputOM\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),OM,sp_k5_50000,sp,50000.0,50.0,481,481,1.1083323804454452,-3.1171598685772635,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputOM\y_pred_oof.npy
+climate_region,Sahara (arid desert),OM,sp_k5_50000,sp,50000.0,50.0,288,288,0.5654758929416134,-0.470955277911546,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputOM\y_pred_oof.npy
+climate_region,Tell (Mediterranean),OM,sp_k5_50000,sp,50000.0,50.0,1387,1387,4.262817075220418,-0.23525755261185677,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputOM\y_pred_oof.npy
+climate_region,All Algeria,pH,sp_k5_50000,sp,50000.0,50.0,2156,2156,0.7293924891730276,0.1259704835395581,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputpH\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),pH,sp_k5_50000,sp,50000.0,50.0,481,481,0.2701654353884463,-3.400620064866491,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputpH\y_pred_oof.npy
+climate_region,Sahara (arid desert),pH,sp_k5_50000,sp,50000.0,50.0,288,288,0.43411743433876054,-0.16363338634823665,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputpH\y_pred_oof.npy
+climate_region,Tell (Mediterranean),pH,sp_k5_50000,sp,50000.0,50.0,1387,1387,0.8732329465553169,-0.05171715680673428,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputpH\y_pred_oof.npy
+climate_region,All Algeria,S%,sp_k5_50000,sp,50000.0,50.0,2156,2156,23.393851074938354,0.10018840705763443,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputS%\y_pred_oof.npy
+climate_region,High plateaus (semi-arid steppe),S%,sp_k5_50000,sp,50000.0,50.0,481,481,9.27034602688422,-0.13264126282329114,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputS%\y_pred_oof.npy
+climate_region,Sahara (arid desert),S%,sp_k5_50000,sp,50000.0,50.0,288,288,14.817705876834589,0.3438002846499397,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputS%\y_pred_oof.npy
+climate_region,Tell (Mediterranean),S%,sp_k5_50000,sp,50000.0,50.0,1387,1387,27.844294252254194,-0.15517764325747652,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputS%\y_pred_oof.npy

@@ -1,0 +1,6 @@
+model,SP,SP1,SP2,blockCV,random
+DecisionTree,0.0,0.0,0.0,0.0,0.0
+LGBM,3.0,2.0,4.0,2.0,1.0
+MLP,0.0,0.0,0.0,0.0,0.0
+RandomForest,0.0,1.0,0.0,1.0,5.0
+UTCNN,4.0,4.0,3.0,4.0,1.0

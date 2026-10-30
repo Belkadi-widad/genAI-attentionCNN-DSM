@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# NumPy files generated/used by map generation
+DSM Module/Training/**/y_true_oof.npy

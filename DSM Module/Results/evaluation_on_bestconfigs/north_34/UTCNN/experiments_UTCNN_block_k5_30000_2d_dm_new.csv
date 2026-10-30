@@ -1,0 +1,4 @@
+soil_property,cv_method,normalization,depth,rmse,mse,r2,mae,time
+A%,block_k5_30000,StandardScaler,all_depth,9.130739230597396,83.37039889717033,0.537590002903567,,
+CE,block_k5_30000,StandardScaler,all_depth,8.205239056776996,67.32594797885865,0.465664607650545,,
+CEC,block_k5_30000,StandardScaler,all_depth,2.1464623270841527,4.607300521591517,0.3544102825887946,,

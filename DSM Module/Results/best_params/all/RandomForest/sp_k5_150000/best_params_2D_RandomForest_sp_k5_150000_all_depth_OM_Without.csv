@@ -1,0 +1,2 @@
+max_features,ccp_alpha,n_estimators,min_impurity_decrease,max_depth,bootstrap,criterion,random_state,r2,rmse
+sqrt,0.01,100,0.0,,True,squared_error,15,-1.121318383482794,4.964633899742298

@@ -1,0 +1,2 @@
+output_name,cv_method,best_score,best_params
+outputOM.npy,sp2_k5,2.554405212774873,"{'optimizer': 'adamw', 'learning_rate': 0.005542417895479632, 'batch_size': 16, 'n_blocks': 1, 'block1_type': 'separable', 'filters_block1': 128, 'kernel_block1': 7, 'activation_block1': 'elu', 'dilation_block1': (2, 2), 'batchnorm_block1': False, 'cbam_block1': False, 'dropout_block1': 0.26911505315983875, 'pooling_block1': True, 'n_dense': 1, 'dense_units_1': 100, 'dense_activation_1': 'relu', 'dense_dropout_1': 0.12866109286181487}"

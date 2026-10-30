@@ -1,0 +1,589 @@
+classification_type,classification_label,soil_property,cv_method_original,cv_method,threshold,threshold_km,n_profiles,n_values,rmse,r2,source_file
+koppen_class,All Algeria,A%,block_k5_10000,block,10000.0,10.0,2156,2156,7.828143338563738,0.6571220780311837,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,BSh,A%,block_k5_10000,block,10000.0,10.0,834,834,8.27510635775383,0.3566270901824131,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,BSk,A%,block_k5_10000,block,10000.0,10.0,460,460,5.966281266657344,-0.185736245262637,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,BWh,A%,block_k5_10000,block,10000.0,10.0,288,288,6.358543522934164,0.5976654618152084,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,BWk,A%,block_k5_10000,block,10000.0,10.0,21,21,4.19901671380148,-0.9296310005414876,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,Csa,A%,block_k5_10000,block,10000.0,10.0,551,551,9.01091573939544,0.761659075495074,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,All Algeria,CE,block_k5_10000,block,10000.0,10.0,2156,2156,7.249624074595566,0.5701221503897879,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,BSh,CE,block_k5_10000,block,10000.0,10.0,834,834,3.877972293745761,0.2599329407597568,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,BSk,CE,block_k5_10000,block,10000.0,10.0,460,460,3.247512139929499,0.324206965324248,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,BWh,CE,block_k5_10000,block,10000.0,10.0,288,288,7.600281296832446,0.21827300476722256,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,BWk,CE,block_k5_10000,block,10000.0,10.0,21,21,2.2655344645886815,0.6072015899798271,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,Csa,CE,block_k5_10000,block,10000.0,10.0,551,551,11.978388583371476,0.5729357452861498,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,All Algeria,CEC,block_k5_10000,block,10000.0,10.0,2156,2156,2.296842600116396,0.3178284543165749,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,BSh,CEC,block_k5_10000,block,10000.0,10.0,834,834,2.4395173440201128,0.2598183021872942,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,BSk,CEC,block_k5_10000,block,10000.0,10.0,460,460,1.3815531389889233,-0.30918955068316323,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,BWh,CEC,block_k5_10000,block,10000.0,10.0,288,288,3.793819819114386,0.021896562165433897,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,BWk,CEC,block_k5_10000,block,10000.0,10.0,21,21,1.1745188667767184,-19.622408707310807,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,Csa,CEC,block_k5_10000,block,10000.0,10.0,551,551,1.5701416888467317,-0.3657931516360404,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,All Algeria,L,block_k5_10000,block,10000.0,10.0,2156,2156,12.217795119711631,0.4838316603688205,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputL\y_pred_oof.npy
+koppen_class,BSh,L,block_k5_10000,block,10000.0,10.0,834,834,7.8596834417298185,0.6453722774297314,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputL\y_pred_oof.npy
+koppen_class,BSk,L,block_k5_10000,block,10000.0,10.0,460,460,5.844330623784411,-0.5918990320215725,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputL\y_pred_oof.npy
+koppen_class,BWh,L,block_k5_10000,block,10000.0,10.0,288,288,8.65479713986001,0.4595634110747753,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputL\y_pred_oof.npy
+koppen_class,BWk,L,block_k5_10000,block,10000.0,10.0,21,21,6.485089878041852,-1.5891472802617366,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputL\y_pred_oof.npy
+koppen_class,Csa,L,block_k5_10000,block,10000.0,10.0,551,551,20.5154052067163,-0.1731174083308329,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputL\y_pred_oof.npy
+koppen_class,All Algeria,OM,block_k5_10000,block,10000.0,10.0,2156,2156,1.6874714677601192,0.7549220293443137,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,BSh,OM,block_k5_10000,block,10000.0,10.0,834,834,1.7083445987680954,0.844223388148936,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,BSk,OM,block_k5_10000,block,10000.0,10.0,460,460,0.5379639704305516,-0.030039407358156023,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,BWh,OM,block_k5_10000,block,10000.0,10.0,288,288,0.5053805715912103,-0.17492018045236635,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,BWk,OM,block_k5_10000,block,10000.0,10.0,21,21,0.9095550489203047,-5.919769505023813,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,Csa,OM,block_k5_10000,block,10000.0,10.0,551,551,2.4964971324479683,0.2614108645252452,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,All Algeria,pH,block_k5_10000,block,10000.0,10.0,2156,2156,0.5155531547920412,0.56333294924822,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,BSh,pH,block_k5_10000,block,10000.0,10.0,834,834,0.6429606953251138,0.517352348722562,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,BSk,pH,block_k5_10000,block,10000.0,10.0,460,460,0.1919411213910802,-1.1970292574387162,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,BWh,pH,block_k5_10000,block,10000.0,10.0,288,288,0.428001166242307,-0.13107557165174244,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,BWk,pH,block_k5_10000,block,10000.0,10.0,21,21,0.2055763066966609,-4.851889903342874,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,Csa,pH,block_k5_10000,block,10000.0,10.0,551,551,0.534541406646735,-0.06385877466693035,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,All Algeria,S%,block_k5_10000,block,10000.0,10.0,2156,2156,11.347464190952786,0.7882878491484708,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,BSh,S%,block_k5_10000,block,10000.0,10.0,834,834,11.51824397208199,0.728412672480748,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,BSk,S%,block_k5_10000,block,10000.0,10.0,460,460,7.887528971557336,-0.04260521666266426,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,BWh,S%,block_k5_10000,block,10000.0,10.0,288,288,13.169684042002677,0.48164796343413674,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,BWk,S%,block_k5_10000,block,10000.0,10.0,21,21,9.261623753146203,-1.459771322467926,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,Csa,S%,block_k5_10000,block,10000.0,10.0,551,551,12.499290179894464,0.3124591790144077,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,All Algeria,A%,block_k5_20000,block,20000.0,20.0,2156,2156,9.271799931731593,0.5189944508733086,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,BSh,A%,block_k5_20000,block,20000.0,20.0,834,834,8.738426863741488,0.28256573798806384,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,BSk,A%,block_k5_20000,block,20000.0,20.0,460,460,5.784566017187006,-0.11460814562595645,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,BWh,A%,block_k5_20000,block,20000.0,20.0,288,288,6.871964782037706,0.5300692440295192,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,BWk,A%,block_k5_20000,block,20000.0,20.0,21,21,4.022212143050502,-0.7705533063850545,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,Csa,A%,block_k5_20000,block,20000.0,20.0,551,551,12.825272071613753,0.5171703451979635,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,All Algeria,CE,block_k5_20000,block,20000.0,20.0,2156,2156,9.532764159702902,0.2567211226970625,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,BSh,CE,block_k5_20000,block,20000.0,20.0,834,834,4.832750785283627,-0.1493451572128226,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,BSk,CE,block_k5_20000,block,20000.0,20.0,460,460,4.564463164814114,-0.335031638734977,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,BWh,CE,block_k5_20000,block,20000.0,20.0,288,288,8.164808908956871,0.09783115251538888,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,BWk,CE,block_k5_20000,block,20000.0,20.0,21,21,2.6675469724349288,0.4554314882918107,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,Csa,CE,block_k5_20000,block,20000.0,20.0,551,551,16.3526839680874,0.20407065946425618,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,All Algeria,CEC,block_k5_20000,block,20000.0,20.0,2156,2156,2.390421798574673,0.2611092794569754,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,BSh,CEC,block_k5_20000,block,20000.0,20.0,834,834,2.514348560073271,0.21371228887220528,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,BSk,CEC,block_k5_20000,block,20000.0,20.0,460,460,1.7914656432620195,-1.201325729857904,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,BWh,CEC,block_k5_20000,block,20000.0,20.0,288,288,3.613612304773739,0.11261006983547828,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,BWk,CEC,block_k5_20000,block,20000.0,20.0,21,21,2.008803403893034,-59.3245743347201,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,Csa,CEC,block_k5_20000,block,20000.0,20.0,551,551,1.7684547676272924,-0.7325874079504964,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,All Algeria,L,block_k5_20000,block,20000.0,20.0,2156,2156,12.554952088646353,0.45495067556463864,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputL\y_pred_oof.npy
+koppen_class,BSh,L,block_k5_20000,block,20000.0,20.0,834,834,8.37504544693454,0.5973414562843644,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputL\y_pred_oof.npy
+koppen_class,BSk,L,block_k5_20000,block,20000.0,20.0,460,460,7.277228482898046,-1.4681865792621198,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputL\y_pred_oof.npy
+koppen_class,BWh,L,block_k5_20000,block,20000.0,20.0,288,288,9.874790039710318,0.2964633944304774,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputL\y_pred_oof.npy
+koppen_class,BWk,L,block_k5_20000,block,20000.0,20.0,21,21,10.078405430015474,-5.253287649173607,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputL\y_pred_oof.npy
+koppen_class,Csa,L,block_k5_20000,block,20000.0,20.0,551,551,20.273192699139052,-0.14558040839067998,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputL\y_pred_oof.npy
+koppen_class,All Algeria,OM,block_k5_20000,block,20000.0,20.0,2156,2156,1.6892332801174992,0.7544100126291815,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,BSh,OM,block_k5_20000,block,20000.0,20.0,834,834,1.736353362712762,0.8390735167122572,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,BSk,OM,block_k5_20000,block,20000.0,20.0,460,460,0.6473784638118161,-0.4916397746372916,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,BWh,OM,block_k5_20000,block,20000.0,20.0,288,288,0.5160954565234463,-0.22526873064559783,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,BWk,OM,block_k5_20000,block,20000.0,20.0,21,21,1.0249370586195317,-7.786745405277223,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,Csa,OM,block_k5_20000,block,20000.0,20.0,551,551,2.4562154117419936,0.2850532834295906,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,All Algeria,pH,block_k5_20000,block,20000.0,20.0,2156,2156,0.6946961737718685,0.20714578526192218,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,BSh,pH,block_k5_20000,block,20000.0,20.0,834,834,0.8904628506130117,0.07425162440117394,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,BSk,pH,block_k5_20000,block,20000.0,20.0,460,460,0.2460774476264631,-2.6111324002083838,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,BWh,pH,block_k5_20000,block,20000.0,20.0,288,288,0.4308633095210615,-0.14625368279386808,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,BWk,pH,block_k5_20000,block,20000.0,20.0,21,21,0.24640174742239837,-7.406933164059124,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,Csa,pH,block_k5_20000,block,20000.0,20.0,551,551,0.7333602532272273,-1.0024238634796783,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,All Algeria,S%,block_k5_20000,block,20000.0,20.0,2156,2156,15.005176668224014,0.6298051534662765,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,BSh,S%,block_k5_20000,block,20000.0,20.0,834,834,19.101422133452015,0.25308985229787606,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,BSk,S%,block_k5_20000,block,20000.0,20.0,460,460,7.4917012396518725,0.05941324592223096,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,BWh,S%,block_k5_20000,block,20000.0,20.0,288,288,13.93501099077774,0.41965168375172146,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,BWk,S%,block_k5_20000,block,20000.0,20.0,21,21,7.584186687005048,-0.6494474931271088,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,Csa,S%,block_k5_20000,block,20000.0,20.0,551,551,13.3477679765711,0.21594760710812322,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,All Algeria,A%,block_k5_30000,block,30000.0,30.0,2156,2156,9.555625628317449,0.48909490207329986,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,BSh,A%,block_k5_30000,block,30000.0,30.0,834,834,9.089623768382012,0.2237396267379046,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,BSk,A%,block_k5_30000,block,30000.0,30.0,460,460,5.094927581851539,0.1353174798444967,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,BWh,A%,block_k5_30000,block,30000.0,30.0,288,288,6.148579392536659,0.6237975758627567,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,BWk,A%,block_k5_30000,block,30000.0,30.0,21,21,5.553044224103842,-2.3747478196566965,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,Csa,A%,block_k5_30000,block,30000.0,30.0,551,551,13.74452395043302,0.44547623008645365,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,All Algeria,CE,block_k5_30000,block,30000.0,30.0,2156,2156,8.992019407737622,0.33865425334845534,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,BSh,CE,block_k5_30000,block,30000.0,30.0,834,834,4.564737666051497,-0.025400011025494607,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,BSk,CE,block_k5_30000,block,30000.0,30.0,460,460,6.038087323117295,-1.3362048639993782,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,BWh,CE,block_k5_30000,block,30000.0,30.0,288,288,8.575581823041489,0.004771127214839854,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,BWk,CE,block_k5_30000,block,30000.0,30.0,21,21,2.437860787401642,0.5451730624273315,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,Csa,CE,block_k5_30000,block,30000.0,30.0,551,551,14.687407146318987,0.3579236179843095,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,All Algeria,CEC,block_k5_30000,block,30000.0,30.0,2156,2156,2.5236961293073406,0.17642101827587497,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,BSh,CEC,block_k5_30000,block,30000.0,30.0,834,834,2.8568592993372275,-0.01509859278368908,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,BSk,CEC,block_k5_30000,block,30000.0,30.0,460,460,1.45439634974708,-0.4508846774250137,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,BWh,CEC,block_k5_30000,block,30000.0,30.0,288,288,4.03329271506882,-0.10547994257333082,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,BWk,CEC,block_k5_30000,block,30000.0,30.0,21,21,0.921064768992433,-11.682350055751733,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,Csa,CEC,block_k5_30000,block,30000.0,30.0,551,551,1.5055281158323948,-0.2556973627481838,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,All Algeria,L,block_k5_30000,block,30000.0,30.0,2156,2156,12.650359638043387,0.4466353262100796,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputL\y_pred_oof.npy
+koppen_class,BSh,L,block_k5_30000,block,30000.0,30.0,834,834,9.72099055406226,0.457520144173741,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputL\y_pred_oof.npy
+koppen_class,BSk,L,block_k5_30000,block,30000.0,30.0,460,460,6.691139050126992,-1.086633019378676,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputL\y_pred_oof.npy
+koppen_class,BWh,L,block_k5_30000,block,30000.0,30.0,288,288,9.389199033685006,0.36395469791652635,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputL\y_pred_oof.npy
+koppen_class,BWk,L,block_k5_30000,block,30000.0,30.0,21,21,4.536829997758609,-0.26715507791565507,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputL\y_pred_oof.npy
+koppen_class,Csa,L,block_k5_30000,block,30000.0,30.0,551,551,19.969164183345814,-0.11147847447219394,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputL\y_pred_oof.npy
+koppen_class,All Algeria,OM,block_k5_30000,block,30000.0,30.0,2156,2156,2.3038740949573553,0.5431760319882999,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,BSh,OM,block_k5_30000,block,30000.0,30.0,834,834,2.7831888537598948,0.5865370025495041,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,BSk,OM,block_k5_30000,block,30000.0,30.0,460,460,0.667817515712554,-0.5873148204612686,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,BWh,OM,block_k5_30000,block,30000.0,30.0,288,288,0.5174360208619243,-0.23164229901780975,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,BWk,OM,block_k5_30000,block,30000.0,30.0,21,21,0.8512864773264117,-5.061569931957802,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,Csa,OM,block_k5_30000,block,30000.0,30.0,551,551,2.9134808694214778,-0.005923868964445855,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,All Algeria,pH,block_k5_30000,block,30000.0,30.0,2156,2156,0.6188462859234665,0.37082841134563893,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,BSh,pH,block_k5_30000,block,30000.0,30.0,834,834,0.7933673461647046,0.2651308934170262,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,BSk,pH,block_k5_30000,block,30000.0,30.0,460,460,0.20924067605672178,-1.610910675183733,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,BWh,pH,block_k5_30000,block,30000.0,30.0,288,288,0.44128661593058294,-0.20238411298890657,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,BWk,pH,block_k5_30000,block,30000.0,30.0,21,21,0.18525612704422748,-3.7522052400752095,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,Csa,pH,block_k5_30000,block,30000.0,30.0,551,551,0.6350889870163203,-0.5017250982925634,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,All Algeria,S%,block_k5_30000,block,30000.0,30.0,2156,2156,14.71511480780255,0.6439791340987322,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,BSh,S%,block_k5_30000,block,30000.0,30.0,834,834,16.853886305417124,0.4185169297590081,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,BSk,S%,block_k5_30000,block,30000.0,30.0,460,460,8.706303478903079,-0.27029784572302984,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,BWh,S%,block_k5_30000,block,30000.0,30.0,288,288,14.560222232973006,0.3664073873844229,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,BWk,S%,block_k5_30000,block,30000.0,30.0,21,21,7.842424805034597,-0.7636856943116057,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,Csa,S%,block_k5_30000,block,30000.0,30.0,551,551,15.503688417931947,-0.05778608693061904,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,All Algeria,A%,block_k5_50000,block,50000.0,50.0,2156,2156,12.643684127561247,0.10552283489002923,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,BSh,A%,block_k5_50000,block,50000.0,50.0,834,834,13.124641164059316,-0.6184171739356772,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,BSk,A%,block_k5_50000,block,50000.0,50.0,460,460,5.070096707190392,0.1437252549647431,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,BWh,A%,block_k5_50000,block,50000.0,50.0,288,288,6.290754301373377,0.6061984095243225,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,BWk,A%,block_k5_50000,block,50000.0,50.0,21,21,4.11251134865255,-0.8509440019089105,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,Csa,A%,block_k5_50000,block,50000.0,50.0,551,551,17.89873447377205,0.05961560642792274,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,All Algeria,CE,block_k5_50000,block,50000.0,50.0,2156,2156,9.384170815726362,0.2797124593622974,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,BSh,CE,block_k5_50000,block,50000.0,50.0,834,834,6.417967330596908,-1.0270136546862512,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,BSk,CE,block_k5_50000,block,50000.0,50.0,460,460,3.894996230123342,0.027865786415186444,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,BWh,CE,block_k5_50000,block,50000.0,50.0,288,288,9.55381366570301,-0.2352342076979752,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,BWk,CE,block_k5_50000,block,50000.0,50.0,21,21,3.4436557591256847,0.09245569253606711,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,Csa,CE,block_k5_50000,block,50000.0,50.0,551,551,14.866111746783682,0.34220402275009865,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,All Algeria,CEC,block_k5_50000,block,50000.0,50.0,2156,2156,2.4802867822744727,0.20450962532355832,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,BSh,CEC,block_k5_50000,block,50000.0,50.0,834,834,2.673369718780641,0.11110887309462802,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,BSk,CEC,block_k5_50000,block,50000.0,50.0,460,460,1.6459224147197586,-0.8581726423536711,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,BWh,CEC,block_k5_50000,block,50000.0,50.0,288,288,4.018114546325885,-0.09717526921874753,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,BWk,CEC,block_k5_50000,block,50000.0,50.0,21,21,1.2860032979819604,-23.72313609589423,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,Csa,CEC,block_k5_50000,block,50000.0,50.0,551,551,1.5715675600768892,-0.3682748759650376,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,All Algeria,L,block_k5_50000,block,50000.0,50.0,2156,2156,13.140605155308073,0.40291464640671837,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputL\y_pred_oof.npy
+koppen_class,BSh,L,block_k5_50000,block,50000.0,50.0,834,834,9.738299610550612,0.45558656053314994,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputL\y_pred_oof.npy
+koppen_class,BSk,L,block_k5_50000,block,50000.0,50.0,460,460,6.338897484842385,-0.8727224710445227,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputL\y_pred_oof.npy
+koppen_class,BWh,L,block_k5_50000,block,50000.0,50.0,288,288,9.504217890320307,0.3482759812181385,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputL\y_pred_oof.npy
+koppen_class,BWk,L,block_k5_50000,block,50000.0,50.0,21,21,7.298201850098061,-2.27911386833823,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputL\y_pred_oof.npy
+koppen_class,Csa,L,block_k5_50000,block,50000.0,50.0,551,551,21.176250765808813,-0.24991195874975358,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputL\y_pred_oof.npy
+koppen_class,All Algeria,OM,block_k5_50000,block,50000.0,50.0,2156,2156,2.171296728688499,0.5942395113716029,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,BSh,OM,block_k5_50000,block,50000.0,50.0,834,834,2.537527279971128,0.6563053787158184,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,BSk,OM,block_k5_50000,block,50000.0,50.0,460,460,0.49715913346661633,0.1202924796733269,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,BWh,OM,block_k5_50000,block,50000.0,50.0,288,288,0.48131455502993964,-0.06568602048958283,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,BWk,OM,block_k5_50000,block,50000.0,50.0,21,21,0.8864453708353642,-5.572606067277031,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,Csa,OM,block_k5_50000,block,50000.0,50.0,551,551,2.887870733358983,0.011682988370753988,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,All Algeria,pH,block_k5_50000,block,50000.0,50.0,2156,2156,0.6325873632597582,0.3425775211179688,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,BSh,pH,block_k5_50000,block,50000.0,50.0,834,834,0.8200835519815467,0.2148049551183736,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,BSk,pH,block_k5_50000,block,50000.0,50.0,460,460,0.2177566816464349,-1.8277614160369597,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,BWh,pH,block_k5_50000,block,50000.0,50.0,288,288,0.4035449224184853,-0.005507912342395338,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,BWk,pH,block_k5_50000,block,50000.0,50.0,21,21,0.2794495683703715,-9.813266689974467,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,Csa,pH,block_k5_50000,block,50000.0,50.0,551,551,0.6480779407469428,-0.5637803587846419,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,All Algeria,S%,block_k5_50000,block,50000.0,50.0,2156,2156,20.089093956922163,0.3364573507385916,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,BSh,S%,block_k5_50000,block,50000.0,50.0,834,834,26.72014430475057,-0.4615529491289272,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,BSk,S%,block_k5_50000,block,50000.0,50.0,460,460,7.756481512487496,-0.008248262010999596,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,BWh,S%,block_k5_50000,block,50000.0,50.0,288,288,17.236421598921478,0.11209129423310848,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,BWk,S%,block_k5_50000,block,50000.0,50.0,21,21,7.474564931929638,-0.6021098984524496,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,Csa,S%,block_k5_50000,block,50000.0,50.0,551,551,17.039062086239703,-0.2776713542652043,cv_optuna_utcnn\test_best_random_on_spCV\all\block_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,All Algeria,A%,random,random,,,2156,2156,4.801827047620667,0.8709865437078861,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputA%\y_pred_oof.npy
+koppen_class,BSh,A%,random,random,,,834,834,3.9770285333829114,0.8513951391635923,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputA%\y_pred_oof.npy
+koppen_class,BSk,A%,random,random,,,460,460,3.0990970897322954,0.6800729118778335,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputA%\y_pred_oof.npy
+koppen_class,BWh,A%,random,random,,,288,288,5.885478435703101,0.6553045387203911,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputA%\y_pred_oof.npy
+koppen_class,BWk,A%,random,random,,,21,21,3.0250335561015733,-0.0014734821757995675,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputA%\y_pred_oof.npy
+koppen_class,Csa,A%,random,random,,,551,551,6.276594573044626,0.8843597781250817,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputA%\y_pred_oof.npy
+koppen_class,All Algeria,CE,random,random,,,2156,2156,6.161293423374319,0.6895026645558431,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCE\y_pred_oof.npy
+koppen_class,BSh,CE,random,random,,,834,834,2.9152382493885316,0.5817752048622209,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCE\y_pred_oof.npy
+koppen_class,BSk,CE,random,random,,,460,460,3.1546071252973302,0.36232013437538346,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCE\y_pred_oof.npy
+koppen_class,BWh,CE,random,random,,,288,288,6.664358189830863,0.3989474569649415,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCE\y_pred_oof.npy
+koppen_class,BWk,CE,random,random,,,21,21,2.5258938484386544,0.5117316598982142,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCE\y_pred_oof.npy
+koppen_class,Csa,CE,random,random,,,551,551,10.174610918821756,0.6918713732311645,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCE\y_pred_oof.npy
+koppen_class,All Algeria,CEC,random,random,,,2156,2156,1.8664082474772608,0.5495522508221486,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCEC\y_pred_oof.npy
+koppen_class,BSh,CEC,random,random,,,834,834,1.913538912536516,0.544587320062363,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCEC\y_pred_oof.npy
+koppen_class,BSk,CEC,random,random,,,460,460,0.9536704026987467,0.3761733106748816,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCEC\y_pred_oof.npy
+koppen_class,BWh,CEC,random,random,,,288,288,3.2551732436874343,0.2799219084835268,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCEC\y_pred_oof.npy
+koppen_class,BWk,CEC,random,random,,,21,21,1.9989999655259625,-58.73721452865826,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCEC\y_pred_oof.npy
+koppen_class,Csa,CEC,random,random,,,551,551,1.2742090002173914,0.10052607502405908,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputCEC\y_pred_oof.npy
+koppen_class,All Algeria,L,random,random,,,2156,2156,6.0530599608729325,0.8733061195261523,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputL\y_pred_oof.npy
+koppen_class,BSh,L,random,random,,,834,834,5.118131637975864,0.8496215939621456,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputL\y_pred_oof.npy
+koppen_class,BSk,L,random,random,,,460,460,3.1581927370060625,0.5351388780339804,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputL\y_pred_oof.npy
+koppen_class,BWh,L,random,random,,,288,288,7.442684466561762,0.6003404700553412,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputL\y_pred_oof.npy
+koppen_class,BWk,L,random,random,,,21,21,5.155114231708754,-0.63606797239423,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputL\y_pred_oof.npy
+koppen_class,Csa,L,random,random,,,551,551,8.062239155711946,0.8188273509506198,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputL\y_pred_oof.npy
+koppen_class,All Algeria,OM,random,random,,,2156,2156,1.2991681242528326,0.8547346243368574,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputOM\y_pred_oof.npy
+koppen_class,BSh,OM,random,random,,,834,834,1.5433291342756832,0.8728640404437942,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputOM\y_pred_oof.npy
+koppen_class,BSk,OM,random,random,,,460,460,0.42266474578227015,0.3641722035219065,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputOM\y_pred_oof.npy
+koppen_class,BWh,OM,random,random,,,288,288,0.5099827316037202,-0.19641602222362842,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputOM\y_pred_oof.npy
+koppen_class,BWk,OM,random,random,,,21,21,0.6466714094566594,-2.49784830796991,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputOM\y_pred_oof.npy
+koppen_class,Csa,OM,random,random,,,551,551,1.6412157682517405,0.6807932006319668,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputOM\y_pred_oof.npy
+koppen_class,All Algeria,pH,random,random,,,2156,2156,0.40362129745798553,0.7323595979016733,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputpH\y_pred_oof.npy
+koppen_class,BSh,pH,random,random,,,834,834,0.5297537014653747,0.6723506227213292,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputpH\y_pred_oof.npy
+koppen_class,BSk,pH,random,random,,,460,460,0.15786763736638446,-0.48622993221493327,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputpH\y_pred_oof.npy
+koppen_class,BWh,pH,random,random,,,288,288,0.39628123816124433,0.030363979427945775,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputpH\y_pred_oof.npy
+koppen_class,BWk,pH,random,random,,,21,21,0.14963578019464385,-2.1004228763998882,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputpH\y_pred_oof.npy
+koppen_class,Csa,pH,random,random,,,551,551,0.32950715730631047,0.5957491138921571,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputpH\y_pred_oof.npy
+koppen_class,All Algeria,S%,random,random,,,2156,2156,7.766382093343035,0.9008287815599075,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputS%\y_pred_oof.npy
+koppen_class,BSh,S%,random,random,,,834,834,5.693355557663379,0.9336450129219594,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputS%\y_pred_oof.npy
+koppen_class,BSk,S%,random,random,,,460,460,4.6154447177205515,0.6430025897272947,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputS%\y_pred_oof.npy
+koppen_class,BWh,S%,random,random,,,288,288,12.582007906425135,0.5268770608684179,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputS%\y_pred_oof.npy
+koppen_class,BWk,S%,random,random,,,21,21,7.509733864316987,-0.6172216942014701,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputS%\y_pred_oof.npy
+koppen_class,Csa,S%,random,random,,,551,551,9.153518829637516,0.6312738441764751,cv_optuna_utcnn\test_best_random_on_spCV\all\random\outputS%\y_pred_oof.npy
+koppen_class,All Algeria,A%,sp1_k5_10000,sp1,10000.0,10.0,2156,2156,7.941537815192915,0.6471166241060944,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,BSh,A%,sp1_k5_10000,sp1,10000.0,10.0,834,834,6.945234696335284,0.5468004666681231,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,BSk,A%,sp1_k5_10000,sp1,10000.0,10.0,460,460,5.253526460223234,0.0806465782903093,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,BWh,A%,sp1_k5_10000,sp1,10000.0,10.0,288,288,6.176951015100164,0.6203177155543111,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,BWk,A%,sp1_k5_10000,sp1,10000.0,10.0,21,21,3.3951762874729834,-0.2615478249182599,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,Csa,A%,sp1_k5_10000,sp1,10000.0,10.0,551,551,11.383253071361413,0.6196411333937837,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,All Algeria,CE,sp1_k5_10000,sp1,10000.0,10.0,2156,2156,8.990017204930467,0.33894873689659943,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,BSh,CE,sp1_k5_10000,sp1,10000.0,10.0,834,834,5.282359720149526,-0.37314884321767194,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,BSk,CE,sp1_k5_10000,sp1,10000.0,10.0,460,460,3.628496439792875,0.15634371282285975,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,BWh,CE,sp1_k5_10000,sp1,10000.0,10.0,288,288,7.812911708530029,0.17392094706728511,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,BWk,CE,sp1_k5_10000,sp1,10000.0,10.0,21,21,1.8681334944602197,0.7329182649742425,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,Csa,CE,sp1_k5_10000,sp1,10000.0,10.0,551,551,15.196966101626264,0.31259890968552795,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,All Algeria,CEC,sp1_k5_10000,sp1,10000.0,10.0,2156,2156,2.534560583022915,0.1693147779309696,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,BSh,CEC,sp1_k5_10000,sp1,10000.0,10.0,834,834,2.7620178730946834,0.05118074139305551,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,BSk,CEC,sp1_k5_10000,sp1,10000.0,10.0,460,460,1.534222319596248,-0.6145218817880289,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,BWh,CEC,sp1_k5_10000,sp1,10000.0,10.0,288,288,3.8793481453426777,-0.022701507481655225,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,BWk,CEC,sp1_k5_10000,sp1,10000.0,10.0,21,21,1.536097266158136,-34.27417192664374,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,Csa,CEC,sp1_k5_10000,sp1,10000.0,10.0,551,551,1.9132864907562996,-1.027996735052973,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,All Algeria,L,sp1_k5_10000,sp1,10000.0,10.0,2156,2156,8.56511811370875,0.74632807835357,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputL\y_pred_oof.npy
+koppen_class,BSh,L,sp1_k5_10000,sp1,10000.0,10.0,834,834,7.116713493210627,0.7092487850709943,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputL\y_pred_oof.npy
+koppen_class,BSk,L,sp1_k5_10000,sp1,10000.0,10.0,460,460,5.147065756419452,-0.23471123070742395,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputL\y_pred_oof.npy
+koppen_class,BWh,L,sp1_k5_10000,sp1,10000.0,10.0,288,288,8.911103570742274,0.42708005557744144,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputL\y_pred_oof.npy
+koppen_class,BWk,L,sp1_k5_10000,sp1,10000.0,10.0,21,21,5.865486388824954,-1.1180334723626224,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputL\y_pred_oof.npy
+koppen_class,Csa,L,sp1_k5_10000,sp1,10000.0,10.0,551,551,12.05849623328052,0.5947084165040921,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputL\y_pred_oof.npy
+koppen_class,All Algeria,OM,sp1_k5_10000,sp1,10000.0,10.0,2156,2156,2.008507308174213,0.652801187312735,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,BSh,OM,sp1_k5_10000,sp1,10000.0,10.0,834,834,2.1736329538587325,0.7478124077773541,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,BSk,OM,sp1_k5_10000,sp1,10000.0,10.0,460,460,1.0307325395376075,-2.781285185114565,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,BWh,OM,sp1_k5_10000,sp1,10000.0,10.0,288,288,0.4912854464884626,-0.11029677137445137,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,BWk,OM,sp1_k5_10000,sp1,10000.0,10.0,21,21,0.7499631650985045,-3.7045004795218723,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,Csa,OM,sp1_k5_10000,sp1,10000.0,10.0,551,551,2.756542567938587,0.09952807105440264,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,All Algeria,pH,sp1_k5_10000,sp1,10000.0,10.0,2156,2156,0.5598586393636661,0.48505565390841654,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,BSh,pH,sp1_k5_10000,sp1,10000.0,10.0,834,834,0.6749791992993598,0.46808513657925166,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,BSk,pH,sp1_k5_10000,sp1,10000.0,10.0,460,460,0.19175742394726047,-1.1928259316667438,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,BWh,pH,sp1_k5_10000,sp1,10000.0,10.0,288,288,0.4180740650334938,-0.07921549564066743,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,BWk,pH,sp1_k5_10000,sp1,10000.0,10.0,21,21,0.12541408947927205,-1.1779238302405566,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,Csa,pH,sp1_k5_10000,sp1,10000.0,10.0,551,551,0.6435199616790728,-0.5418613488712711,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,All Algeria,S%,sp1_k5_10000,sp1,10000.0,10.0,2156,2156,12.407664281421404,0.7468789807062056,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,BSh,S%,sp1_k5_10000,sp1,10000.0,10.0,834,834,12.50611628321474,0.6798290828718174,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,BSk,S%,sp1_k5_10000,sp1,10000.0,10.0,460,460,6.2082828420649525,0.3540767043147057,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,BWh,S%,sp1_k5_10000,sp1,10000.0,10.0,288,288,13.435937585446077,0.46047688874167947,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,BWk,S%,sp1_k5_10000,sp1,10000.0,10.0,21,21,8.033138985492057,-0.8505082587164781,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,Csa,S%,sp1_k5_10000,sp1,10000.0,10.0,551,551,15.381261430128614,-0.0411461432587763,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,All Algeria,A%,sp1_k5_20000,sp1,20000.0,20.0,2156,2156,10.612365988962258,0.3698464006026845,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,BSh,A%,sp1_k5_20000,sp1,20000.0,20.0,834,834,8.795210295496467,0.27321148195751777,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,BSk,A%,sp1_k5_20000,sp1,20000.0,20.0,460,460,5.8836570109581645,-0.1531222279546136,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,BWh,A%,sp1_k5_20000,sp1,20000.0,20.0,288,288,7.778384496122404,0.39792466834565865,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,BWk,A%,sp1_k5_20000,sp1,20000.0,20.0,21,21,3.495616163260936,-0.33729289945158536,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,Csa,A%,sp1_k5_20000,sp1,20000.0,20.0,551,551,16.184852628603682,0.23108512804998027,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,All Algeria,CE,sp1_k5_20000,sp1,20000.0,20.0,2156,2156,9.11911161313409,0.31982736348602625,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,BSh,CE,sp1_k5_20000,sp1,20000.0,20.0,834,834,3.947437697110386,0.23318210638535142,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,BSk,CE,sp1_k5_20000,sp1,20000.0,20.0,460,460,7.850809276413424,-2.9494898193304793,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,BWh,CE,sp1_k5_20000,sp1,20000.0,20.0,288,288,9.332585155023327,-0.1786902726666797,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,BWk,CE,sp1_k5_20000,sp1,20000.0,20.0,21,21,3.046144011289429,0.2898840991086994,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,Csa,CE,sp1_k5_20000,sp1,20000.0,20.0,551,551,14.295084656259768,0.3917671245027198,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,All Algeria,CEC,sp1_k5_20000,sp1,20000.0,20.0,2156,2156,2.731242573876471,0.03539018112608516,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,BSh,CEC,sp1_k5_20000,sp1,20000.0,20.0,834,834,2.68664509283613,0.1022588729315218,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,BSk,CEC,sp1_k5_20000,sp1,20000.0,20.0,460,460,3.0801276479231623,-5.507359088758779,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,BWh,CEC,sp1_k5_20000,sp1,20000.0,20.0,288,288,3.7674749020895617,0.03543362312541942,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,BWk,CEC,sp1_k5_20000,sp1,20000.0,20.0,21,21,0.8845698757347573,-10.697247668370492,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,Csa,CEC,sp1_k5_20000,sp1,20000.0,20.0,551,551,1.701155554465913,-0.6032280268357424,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,All Algeria,L,sp1_k5_20000,sp1,20000.0,20.0,2156,2156,14.596736491567261,0.26325495754587636,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputL\y_pred_oof.npy
+koppen_class,BSh,L,sp1_k5_20000,sp1,20000.0,20.0,834,834,13.842284635631698,-0.09996312019563769,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputL\y_pred_oof.npy
+koppen_class,BSk,L,sp1_k5_20000,sp1,20000.0,20.0,460,460,7.558515871213169,-1.6626802921109518,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputL\y_pred_oof.npy
+koppen_class,BWh,L,sp1_k5_20000,sp1,20000.0,20.0,288,288,10.003518020600566,0.2780011994833357,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputL\y_pred_oof.npy
+koppen_class,BWk,L,sp1_k5_20000,sp1,20000.0,20.0,21,21,8.2545003481323,-3.194752455279353,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputL\y_pred_oof.npy
+koppen_class,Csa,L,sp1_k5_20000,sp1,20000.0,20.0,551,551,21.00116562342632,-0.22932886994560953,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputL\y_pred_oof.npy
+koppen_class,All Algeria,OM,sp1_k5_20000,sp1,20000.0,20.0,2156,2156,1.948465688772587,0.6732490011501058,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,BSh,OM,sp1_k5_20000,sp1,20000.0,20.0,834,834,1.9744546452097997,0.7919126784728618,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,BSk,OM,sp1_k5_20000,sp1,20000.0,20.0,460,460,0.662847489757094,-0.5637765335412288,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,BWh,OM,sp1_k5_20000,sp1,20000.0,20.0,288,288,0.5770297269516865,-0.5316786313892754,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,BWk,OM,sp1_k5_20000,sp1,20000.0,20.0,21,21,1.0794117589270236,-8.745585597904233,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,Csa,OM,sp1_k5_20000,sp1,20000.0,20.0,551,551,2.88825290687148,0.011421388312322533,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,All Algeria,pH,sp1_k5_20000,sp1,20000.0,20.0,2156,2156,0.6352488588779245,0.3370339140941483,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,BSh,pH,sp1_k5_20000,sp1,20000.0,20.0,834,834,0.8278060267674836,0.19994744778094542,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,BSk,pH,sp1_k5_20000,sp1,20000.0,20.0,460,460,0.2575418903388875,-2.9554467564692923,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,BWh,pH,sp1_k5_20000,sp1,20000.0,20.0,288,288,0.5008818072790736,-0.549074245803886,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,BWk,pH,sp1_k5_20000,sp1,20000.0,20.0,21,21,0.2714082272973132,-9.199903073534752,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,Csa,pH,sp1_k5_20000,sp1,20000.0,20.0,551,551,0.5936522877550258,-0.31215629174250936,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,All Algeria,S%,sp1_k5_20000,sp1,20000.0,20.0,2156,2156,17.06862419263287,0.5209893433369961,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,BSh,S%,sp1_k5_20000,sp1,20000.0,20.0,834,834,18.026605754514446,0.33478064543424035,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,BSk,S%,sp1_k5_20000,sp1,20000.0,20.0,460,460,15.114180112720089,-2.828310418567604,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,BWh,S%,sp1_k5_20000,sp1,20000.0,20.0,288,288,13.72338186091906,0.4371451747074633,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,BWk,S%,sp1_k5_20000,sp1,20000.0,20.0,21,21,9.066972096691629,-1.3574637536208334,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,Csa,S%,sp1_k5_20000,sp1,20000.0,20.0,551,551,18.8191652114023,-0.5585778393553504,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,All Algeria,A%,sp1_k5_30000,sp1,30000.0,30.0,2156,2156,10.88138173323729,0.3374936039366577,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,BSh,A%,sp1_k5_30000,sp1,30000.0,30.0,834,834,11.50089186816142,-0.24273532107532403,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,BSk,A%,sp1_k5_30000,sp1,30000.0,30.0,460,460,4.663664019140879,0.27550538891534593,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,BWh,A%,sp1_k5_30000,sp1,30000.0,30.0,288,288,6.5222920462250515,0.5766763796452032,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,BWk,A%,sp1_k5_30000,sp1,30000.0,30.0,21,21,4.665263789551884,-1.381943586558874,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,Csa,A%,sp1_k5_30000,sp1,30000.0,30.0,551,551,14.77028449624113,0.3596189331395363,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,All Algeria,CE,sp1_k5_30000,sp1,30000.0,30.0,2156,2156,9.220362575114574,0.3046393794636898,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,BSh,CE,sp1_k5_30000,sp1,30000.0,30.0,834,834,6.313682711416277,-0.9616755364865062,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,BSk,CE,sp1_k5_30000,sp1,30000.0,30.0,460,460,6.162844594513194,-1.4337422283851802,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,BWh,CE,sp1_k5_30000,sp1,30000.0,30.0,288,288,9.669910653428303,-0.26543749808577766,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,BWk,CE,sp1_k5_30000,sp1,30000.0,30.0,21,21,7.299216682107261,-3.0773771700519275,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,Csa,CE,sp1_k5_30000,sp1,30000.0,30.0,551,551,13.727580209465264,0.439101334043451,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,All Algeria,CEC,sp1_k5_30000,sp1,30000.0,30.0,2156,2156,2.49071112048735,0.19780887856890073,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,BSh,CEC,sp1_k5_30000,sp1,30000.0,30.0,834,834,2.7201235581492784,0.07974584810198482,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,BSk,CEC,sp1_k5_30000,sp1,30000.0,30.0,460,460,1.7550481866868326,-1.1127369722152434,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,BWh,CEC,sp1_k5_30000,sp1,30000.0,30.0,288,288,3.560444195385224,0.13853080969784815,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,BWk,CEC,sp1_k5_30000,sp1,30000.0,30.0,21,21,2.041932326995815,-61.330711504104876,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,Csa,CEC,sp1_k5_30000,sp1,30000.0,30.0,551,551,1.9283159392540807,-1.0599829390943536,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,All Algeria,L,sp1_k5_30000,sp1,30000.0,30.0,2156,2156,14.548662544949355,0.2680998648118256,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputL\y_pred_oof.npy
+koppen_class,BSh,L,sp1_k5_30000,sp1,30000.0,30.0,834,834,10.488537154570576,0.36847228344383076,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputL\y_pred_oof.npy
+koppen_class,BSk,L,sp1_k5_30000,sp1,30000.0,30.0,460,460,6.139915885954858,-0.7569961436137116,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputL\y_pred_oof.npy
+koppen_class,BWh,L,sp1_k5_30000,sp1,30000.0,30.0,288,288,9.752414550340054,0.31379280732455417,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputL\y_pred_oof.npy
+koppen_class,BWk,L,sp1_k5_30000,sp1,30000.0,30.0,21,21,9.824735491524066,-4.942463052961422,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputL\y_pred_oof.npy
+koppen_class,Csa,L,sp1_k5_30000,sp1,30000.0,30.0,551,551,24.014883682783747,-0.6074677027460578,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputL\y_pred_oof.npy
+koppen_class,All Algeria,OM,sp1_k5_30000,sp1,30000.0,30.0,2156,2156,2.7211991438643315,0.3626880673016788,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,BSh,OM,sp1_k5_30000,sp1,30000.0,30.0,834,834,3.4971277441466517,0.3472088031679078,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,BSk,OM,sp1_k5_30000,sp1,30000.0,30.0,460,460,0.7055359261480204,-0.7716818090747004,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,BWh,OM,sp1_k5_30000,sp1,30000.0,30.0,288,288,0.5346912742102595,-0.3151566107825716,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,BWk,OM,sp1_k5_30000,sp1,30000.0,30.0,21,21,1.0813098359554616,-8.779889718951026,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,Csa,OM,sp1_k5_30000,sp1,30000.0,30.0,551,551,3.138206339558714,-0.16708842726565742,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,All Algeria,pH,sp1_k5_30000,sp1,30000.0,30.0,2156,2156,0.6445700118114398,0.3174354666580065,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,BSh,pH,sp1_k5_30000,sp1,30000.0,30.0,834,834,0.7764673098993543,0.2961052929650123,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,BSk,pH,sp1_k5_30000,sp1,30000.0,30.0,460,460,0.20889759495207447,-1.6023557443297891,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,BWh,pH,sp1_k5_30000,sp1,30000.0,30.0,288,288,0.4174264183490636,-0.07587441798408245,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,BWk,pH,sp1_k5_30000,sp1,30000.0,30.0,21,21,0.24561866378388067,-7.353582319650663,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,Csa,pH,sp1_k5_30000,sp1,30000.0,30.0,551,551,0.7626239184385519,-1.165419881130322,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,All Algeria,S%,sp1_k5_30000,sp1,30000.0,30.0,2156,2156,15.75961952603129,0.5916433811262238,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,BSh,S%,sp1_k5_30000,sp1,30000.0,30.0,834,834,16.497111093258248,0.4428748640547572,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,BSk,S%,sp1_k5_30000,sp1,30000.0,30.0,460,460,11.956141047986586,-1.395631518500859,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,BWh,S%,sp1_k5_30000,sp1,30000.0,30.0,288,288,15.05310495755538,0.3227854551073408,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,BWk,S%,sp1_k5_30000,sp1,30000.0,30.0,21,21,10.069510563302737,-1.9076169329259138,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,Csa,S%,sp1_k5_30000,sp1,30000.0,30.0,551,551,17.83727378549765,-0.4001828176345603,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,All Algeria,A%,sp1_k5_50000,sp1,50000.0,50.0,2156,2156,11.962070547587038,0.19936475971507273,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,BSh,A%,sp1_k5_50000,sp1,50000.0,50.0,834,834,14.146665376271505,-0.8802853547579375,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,BSk,A%,sp1_k5_50000,sp1,50000.0,50.0,460,460,6.502146090530689,-0.408296483472262,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,BWh,A%,sp1_k5_50000,sp1,50000.0,50.0,288,288,7.440832362917396,0.44904635589366715,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,BWk,A%,sp1_k5_50000,sp1,50000.0,50.0,21,21,4.706648659053309,-1.4243907695880536,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,Csa,A%,sp1_k5_50000,sp1,50000.0,50.0,551,551,13.73897135894047,0.44592417896171965,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,All Algeria,CE,sp1_k5_50000,sp1,50000.0,50.0,2156,2156,10.172676637142779,0.15358261906569048,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,BSh,CE,sp1_k5_50000,sp1,50000.0,50.0,834,834,7.50839762352184,-1.7743177293086023,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,BSk,CE,sp1_k5_50000,sp1,50000.0,50.0,460,460,5.9387377266230335,-1.2599583560480436,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,BWh,CE,sp1_k5_50000,sp1,50000.0,50.0,288,288,9.088256146046279,-0.11778144068993246,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,BWk,CE,sp1_k5_50000,sp1,50000.0,50.0,21,21,3.4865424647307486,0.06971012811591404,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,Csa,CE,sp1_k5_50000,sp1,50000.0,50.0,551,551,15.694227345699977,0.2668779090687732,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,All Algeria,CEC,sp1_k5_50000,sp1,50000.0,50.0,2156,2156,2.479677695191946,0.20490027645511932,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,BSh,CEC,sp1_k5_50000,sp1,50000.0,50.0,834,834,2.927775229567672,-0.06611974377398644,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,BSk,CEC,sp1_k5_50000,sp1,50000.0,50.0,460,460,1.4757398063976572,-0.49378098397089776,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,BWh,CEC,sp1_k5_50000,sp1,50000.0,50.0,288,288,3.6804119324129925,0.07949904468952795,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,BWk,CEC,sp1_k5_50000,sp1,50000.0,50.0,21,21,2.148875932831878,-68.03066840921036,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,Csa,CEC,sp1_k5_50000,sp1,50000.0,50.0,551,551,1.4177055528235007,-0.11347205545437711,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,All Algeria,L,sp1_k5_50000,sp1,50000.0,50.0,2156,2156,13.220120831713189,0.3956666860268867,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputL\y_pred_oof.npy
+koppen_class,BSh,L,sp1_k5_50000,sp1,50000.0,50.0,834,834,11.283664280505944,0.26909171255931896,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputL\y_pred_oof.npy
+koppen_class,BSk,L,sp1_k5_50000,sp1,50000.0,50.0,460,460,5.596671583642285,-0.45984118274936225,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputL\y_pred_oof.npy
+koppen_class,BWh,L,sp1_k5_50000,sp1,50000.0,50.0,288,288,9.849844941819349,0.3000133682155317,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputL\y_pred_oof.npy
+koppen_class,BWk,L,sp1_k5_50000,sp1,50000.0,50.0,21,21,8.736508736454697,-3.698947444093764,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputL\y_pred_oof.npy
+koppen_class,Csa,L,sp1_k5_50000,sp1,50000.0,50.0,551,551,20.228524804891272,-0.14053785853978074,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputL\y_pred_oof.npy
+koppen_class,All Algeria,OM,sp1_k5_50000,sp1,50000.0,50.0,2156,2156,2.4329338668934617,0.4905612142708714,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,BSh,OM,sp1_k5_50000,sp1,50000.0,50.0,834,834,2.989732684162768,0.5228927518808343,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,BSk,OM,sp1_k5_50000,sp1,50000.0,50.0,460,460,1.0035197698389529,-2.584258512153117,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,BWh,OM,sp1_k5_50000,sp1,50000.0,50.0,288,288,0.5729026366442117,-0.509846931747368,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,BWk,OM,sp1_k5_50000,sp1,50000.0,50.0,21,21,1.270176548868521,-12.494656394342385,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,Csa,OM,sp1_k5_50000,sp1,50000.0,50.0,551,551,2.9251427882276633,-0.013992897808826621,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,All Algeria,pH,sp1_k5_50000,sp1,50000.0,50.0,2156,2156,0.6494822599358828,0.3069922174808901,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,BSh,pH,sp1_k5_50000,sp1,50000.0,50.0,834,834,0.835611864507733,0.1847880400206936,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,BSk,pH,sp1_k5_50000,sp1,50000.0,50.0,460,460,0.1915687631344277,-1.1885132244522487,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,BWh,pH,sp1_k5_50000,sp1,50000.0,50.0,288,288,0.44536704275877365,-0.2247229892668854,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,BWk,pH,sp1_k5_50000,sp1,50000.0,50.0,21,21,0.18783533380758857,-3.8854504164687373,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,Csa,pH,sp1_k5_50000,sp1,50000.0,50.0,551,551,0.6604339421041926,-0.623977642343627,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,All Algeria,S%,sp1_k5_50000,sp1,50000.0,50.0,2156,2156,21.713030919707258,0.22484412297230993,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,BSh,S%,sp1_k5_50000,sp1,50000.0,50.0,834,834,29.68748930480638,-0.8041967497132549,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,BSk,S%,sp1_k5_50000,sp1,50000.0,50.0,460,460,9.52848343520314,-0.521547536747524,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,BWh,S%,sp1_k5_50000,sp1,50000.0,50.0,288,288,15.979747793764744,0.23684291788252065,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,BWk,S%,sp1_k5_50000,sp1,50000.0,50.0,21,21,8.559431873608052,-1.100924013057503,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,Csa,S%,sp1_k5_50000,sp1,50000.0,50.0,551,551,17.281274600075026,-0.31425406675680323,cv_optuna_utcnn\test_best_random_on_spCV\all\sp1_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,All Algeria,A%,sp2_k5,sp2,,,2156,2156,10.198505100911918,0.4180374770678693,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputA%\y_pred_oof.npy
+koppen_class,BSh,A%,sp2_k5,sp2,,,834,834,10.188280001680912,0.02474688594671226,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputA%\y_pred_oof.npy
+koppen_class,BSk,A%,sp2_k5,sp2,,,460,460,5.967688914805245,-0.1862958220755706,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputA%\y_pred_oof.npy
+koppen_class,BWh,A%,sp2_k5,sp2,,,288,288,7.290657886962914,0.4710611600907355,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputA%\y_pred_oof.npy
+koppen_class,BWk,A%,sp2_k5,sp2,,,21,21,4.905397331368071,-1.6334643406885316,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputA%\y_pred_oof.npy
+koppen_class,Csa,A%,sp2_k5,sp2,,,551,551,13.803567094058277,0.4407017977326283,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputA%\y_pred_oof.npy
+koppen_class,All Algeria,CE,sp2_k5,sp2,,,2156,2156,8.536216514700937,0.4040018140761089,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCE\y_pred_oof.npy
+koppen_class,BSh,CE,sp2_k5,sp2,,,834,834,3.712634281167056,0.32169344958642665,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCE\y_pred_oof.npy
+koppen_class,BSk,CE,sp2_k5,sp2,,,460,460,6.483051061301582,-1.6932150277644271,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCE\y_pred_oof.npy
+koppen_class,BWh,CE,sp2_k5,sp2,,,288,288,10.663832791949378,-0.5389426306247311,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCE\y_pred_oof.npy
+koppen_class,BWk,CE,sp2_k5,sp2,,,21,21,5.693305452345485,-1.4806034549157392,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCE\y_pred_oof.npy
+koppen_class,Csa,CE,sp2_k5,sp2,,,551,551,12.967041981775902,0.4995297561469836,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCE\y_pred_oof.npy
+koppen_class,All Algeria,CEC,sp2_k5,sp2,,,2156,2156,2.4180223707825927,0.24394783673975562,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCEC\y_pred_oof.npy
+koppen_class,BSh,CEC,sp2_k5,sp2,,,834,834,2.4151339769083675,0.27454082520918677,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCEC\y_pred_oof.npy
+koppen_class,BSk,CEC,sp2_k5,sp2,,,460,460,2.1144142985872163,-2.0665321092296804,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCEC\y_pred_oof.npy
+koppen_class,BWh,CEC,sp2_k5,sp2,,,288,288,3.721633296234637,0.058763976196336776,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCEC\y_pred_oof.npy
+koppen_class,BWk,CEC,sp2_k5,sp2,,,21,21,3.314602435770712,-163.24126646124637,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCEC\y_pred_oof.npy
+koppen_class,Csa,CEC,sp2_k5,sp2,,,551,551,1.628579844165944,-0.4693503216487289,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputCEC\y_pred_oof.npy
+koppen_class,All Algeria,L,sp2_k5,sp2,,,2156,2156,11.313344055436962,0.5574241868588676,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputL\y_pred_oof.npy
+koppen_class,BSh,L,sp2_k5,sp2,,,834,834,8.908542803061083,0.5444081822679325,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputL\y_pred_oof.npy
+koppen_class,BSk,L,sp2_k5,sp2,,,460,460,7.75989721754782,-1.8064538374007149,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputL\y_pred_oof.npy
+koppen_class,BWh,L,sp2_k5,sp2,,,288,288,9.31025456748008,0.3746054816803086,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputL\y_pred_oof.npy
+koppen_class,BWk,L,sp2_k5,sp2,,,21,21,6.278679199548722,-1.4269528799550324,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputL\y_pred_oof.npy
+koppen_class,Csa,L,sp2_k5,sp2,,,551,551,16.837216172901247,0.2098275990962314,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputL\y_pred_oof.npy
+koppen_class,All Algeria,OM,sp2_k5,sp2,,,2156,2156,1.9197115673955922,0.6828217765065148,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputOM\y_pred_oof.npy
+koppen_class,BSh,OM,sp2_k5,sp2,,,834,834,1.9594573567655453,0.7950617946372514,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputOM\y_pred_oof.npy
+koppen_class,BSk,OM,sp2_k5,sp2,,,460,460,0.5390136657509627,-0.03406303150752166,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputOM\y_pred_oof.npy
+koppen_class,BWh,OM,sp2_k5,sp2,,,288,288,0.5944177385402792,-0.6253795863006055,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputOM\y_pred_oof.npy
+koppen_class,BWk,OM,sp2_k5,sp2,,,21,21,1.0611652916537018,-8.418889980809947,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputOM\y_pred_oof.npy
+koppen_class,Csa,OM,sp2_k5,sp2,,,551,551,2.851976621283882,0.03609841566726546,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputOM\y_pred_oof.npy
+koppen_class,All Algeria,pH,sp2_k5,sp2,,,2156,2156,0.4897101362909572,0.6060131631927697,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputpH\y_pred_oof.npy
+koppen_class,BSh,pH,sp2_k5,sp2,,,834,834,0.5967597231027978,0.5842231020857167,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputpH\y_pred_oof.npy
+koppen_class,BSk,pH,sp2_k5,sp2,,,460,460,0.23861562894786173,-2.395451696136248,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputpH\y_pred_oof.npy
+koppen_class,BWh,pH,sp2_k5,sp2,,,288,288,0.39467912101076563,0.03818837332930547,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputpH\y_pred_oof.npy
+koppen_class,BWk,pH,sp2_k5,sp2,,,21,21,0.27439656392297895,-9.425751406490939,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputpH\y_pred_oof.npy
+koppen_class,Csa,pH,sp2_k5,sp2,,,551,551,0.5170787424732274,0.004515176330731063,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputpH\y_pred_oof.npy
+koppen_class,All Algeria,S%,sp2_k5,sp2,,,2156,2156,16.35993178131174,0.5599407854593348,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputS%\y_pred_oof.npy
+koppen_class,BSh,S%,sp2_k5,sp2,,,834,834,14.144503775170413,0.5904448542276897,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputS%\y_pred_oof.npy
+koppen_class,BSk,S%,sp2_k5,sp2,,,460,460,10.851337684578787,-0.9733517984616427,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputS%\y_pred_oof.npy
+koppen_class,BWh,S%,sp2_k5,sp2,,,288,288,17.97149304968626,0.03474420834318115,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputS%\y_pred_oof.npy
+koppen_class,BWk,S%,sp2_k5,sp2,,,21,21,8.20341922355819,-0.9297910055336505,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputS%\y_pred_oof.npy
+koppen_class,Csa,S%,sp2_k5,sp2,,,551,551,21.769447654194952,-1.0855596086888384,cv_optuna_utcnn\test_best_random_on_spCV\all\sp2_k5\outputS%\y_pred_oof.npy
+koppen_class,All Algeria,A%,sp_k5_10000,sp,10000.0,10.0,2156,2156,14.076831270041852,-0.10874530327052145,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,BSh,A%,sp_k5_10000,sp,10000.0,10.0,834,834,13.970391559673308,-0.8337188898534944,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,BSk,A%,sp_k5_10000,sp,10000.0,10.0,460,460,6.934413414489306,-0.6017698265852103,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,BWh,A%,sp_k5_10000,sp,10000.0,10.0,288,288,6.97798234154202,0.5154576385554868,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,BWk,A%,sp_k5_10000,sp,10000.0,10.0,21,21,4.764712275946498,-1.4845767768881037,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,Csa,A%,sp_k5_10000,sp,10000.0,10.0,551,551,20.300010789280016,-0.2096320905623834,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputA%\y_pred_oof.npy
+koppen_class,All Algeria,CE,sp_k5_10000,sp,10000.0,10.0,2156,2156,11.300942282623147,-0.044584091218413224,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,BSh,CE,sp_k5_10000,sp,10000.0,10.0,834,834,9.855124029562631,-3.7795373398693686,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,BSk,CE,sp_k5_10000,sp,10000.0,10.0,460,460,6.328201334130636,-1.5660949421729282,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,BWh,CE,sp_k5_10000,sp,10000.0,10.0,288,288,8.437206605701595,0.03662994044958845,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,BWk,CE,sp_k5_10000,sp,10000.0,10.0,21,21,3.791744954459178,-0.10028859077038987,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,Csa,CE,sp_k5_10000,sp,10000.0,10.0,551,551,16.770665910183624,0.16286202734758493,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCE\y_pred_oof.npy
+koppen_class,All Algeria,CEC,sp_k5_10000,sp,10000.0,10.0,2156,2156,2.7230065895481266,0.04119891682977728,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,BSh,CEC,sp_k5_10000,sp,10000.0,10.0,834,834,2.78410953177936,0.03594201439657552,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,BSk,CEC,sp_k5_10000,sp,10000.0,10.0,460,460,3.0180884105768078,-5.247859544143688,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,BWh,CEC,sp_k5_10000,sp,10000.0,10.0,288,288,3.778694648570697,0.029680005632617523,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,BWk,CEC,sp_k5_10000,sp,10000.0,10.0,21,21,2.154457117537197,-68.38971495197174,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,Csa,CEC,sp_k5_10000,sp,10000.0,10.0,551,551,1.426846782254814,-0.12787747061435262,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputCEC\y_pred_oof.npy
+koppen_class,All Algeria,L,sp_k5_10000,sp,10000.0,10.0,2156,2156,16.06710065271628,0.10735101619450871,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputL\y_pred_oof.npy
+koppen_class,BSh,L,sp_k5_10000,sp,10000.0,10.0,834,834,14.099028096112253,-0.14114524689059293,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputL\y_pred_oof.npy
+koppen_class,BSk,L,sp_k5_10000,sp,10000.0,10.0,460,460,15.291414949814587,-9.897862204383333,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputL\y_pred_oof.npy
+koppen_class,BWh,L,sp_k5_10000,sp,10000.0,10.0,288,288,11.143686816731766,0.10403972439201081,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputL\y_pred_oof.npy
+koppen_class,BWk,L,sp_k5_10000,sp,10000.0,10.0,21,21,9.145112531145529,-4.148762558714033,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputL\y_pred_oof.npy
+koppen_class,Csa,L,sp_k5_10000,sp,10000.0,10.0,551,551,21.10763044536459,-0.24182455980904116,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputL\y_pred_oof.npy
+koppen_class,All Algeria,OM,sp_k5_10000,sp,10000.0,10.0,2156,2156,3.5443865026608194,-0.08121869632611256,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,BSh,OM,sp_k5_10000,sp,10000.0,10.0,834,834,4.753838581785368,-0.20625786465536722,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,BSk,OM,sp_k5_10000,sp,10000.0,10.0,460,460,0.766340181958577,-1.0902135337631949,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,BWh,OM,sp_k5_10000,sp,10000.0,10.0,288,288,0.5400048930694498,-0.3414258429295036,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,BWk,OM,sp_k5_10000,sp,10000.0,10.0,21,21,1.3071897645343364,-13.292589742967456,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,Csa,OM,sp_k5_10000,sp,10000.0,10.0,551,551,3.7545961726043764,-0.670579847254571,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputOM\y_pred_oof.npy
+koppen_class,All Algeria,pH,sp_k5_10000,sp,10000.0,10.0,2156,2156,0.8241986879404652,-0.11600814202988108,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,BSh,pH,sp_k5_10000,sp,10000.0,10.0,834,834,1.0195658891189492,-0.21364575578152079,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,BSk,pH,sp_k5_10000,sp,10000.0,10.0,460,460,0.7127991052295387,-29.29940334956757,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,BWh,pH,sp_k5_10000,sp,10000.0,10.0,288,288,0.4208032216365812,-0.09335156314922277,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,BWk,pH,sp_k5_10000,sp,10000.0,10.0,21,21,0.4389378546375743,-25.678174026633705,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,Csa,pH,sp_k5_10000,sp,10000.0,10.0,551,551,0.7443440246471925,-1.0628549346741893,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputpH\y_pred_oof.npy
+koppen_class,All Algeria,S%,sp_k5_10000,sp,10000.0,10.0,2156,2156,21.92224934716132,0.2098339448576957,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,BSh,S%,sp_k5_10000,sp,10000.0,10.0,834,834,27.625938682333484,-0.5623237762679292,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,BSk,S%,sp_k5_10000,sp,10000.0,10.0,460,460,11.94444443427367,-1.3909465503179264,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,BWh,S%,sp_k5_10000,sp,10000.0,10.0,288,288,17.30041230145145,0.10548628395630766,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,BWk,S%,sp_k5_10000,sp,10000.0,10.0,21,21,10.948827632490914,-2.4376028690654232,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,Csa,S%,sp_k5_10000,sp,10000.0,10.0,551,551,21.075511102432536,-0.9547175767558207,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_10000\outputS%\y_pred_oof.npy
+koppen_class,All Algeria,A%,sp_k5_20000,sp,20000.0,20.0,2156,2156,14.789554237759365,-0.22386115858223343,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,BSh,A%,sp_k5_20000,sp,20000.0,20.0,834,834,17.102021794978874,-1.74796067083166,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,BSk,A%,sp_k5_20000,sp,20000.0,20.0,460,460,5.56274832288827,-0.030764544885493184,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,BWh,A%,sp_k5_20000,sp,20000.0,20.0,288,288,7.186950402068566,0.4860021352366741,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,BWk,A%,sp_k5_20000,sp,20000.0,20.0,21,21,3.336682584437717,-0.21845319259316165,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,Csa,A%,sp_k5_20000,sp,20000.0,20.0,551,551,18.96777460544267,-0.05607198705943106,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputA%\y_pred_oof.npy
+koppen_class,All Algeria,CE,sp_k5_20000,sp,20000.0,20.0,2156,2156,15.546033406607238,-0.9767570068183054,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,BSh,CE,sp_k5_20000,sp,20000.0,20.0,834,834,18.235266146477034,-15.363864801612895,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,BSk,CE,sp_k5_20000,sp,20000.0,20.0,460,460,4.793755873553612,-0.4725293900677172,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,BWh,CE,sp_k5_20000,sp,20000.0,20.0,288,288,8.202291552752444,0.08952886554669526,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,BWk,CE,sp_k5_20000,sp,20000.0,20.0,21,21,4.748750090479489,-0.7257862490938762,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,Csa,CE,sp_k5_20000,sp,20000.0,20.0,551,551,19.675214888117843,-0.15221996412860017,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCE\y_pred_oof.npy
+koppen_class,All Algeria,CEC,sp_k5_20000,sp,20000.0,20.0,2156,2156,2.5450509971901276,0.16242422186639494,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,BSh,CEC,sp_k5_20000,sp,20000.0,20.0,834,834,2.9439585275862528,-0.0779382859373634,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,BSk,CEC,sp_k5_20000,sp,20000.0,20.0,460,460,1.8983706284699693,-1.4718912157443822,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,BWh,CEC,sp_k5_20000,sp,20000.0,20.0,288,288,3.6806151680973427,0.0793973800876524,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,BWk,CEC,sp_k5_20000,sp,20000.0,20.0,21,21,3.5887323856172446,-191.5313883929725,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,Csa,CEC,sp_k5_20000,sp,20000.0,20.0,551,551,1.2574902130802466,0.12397506367151956,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputCEC\y_pred_oof.npy
+koppen_class,All Algeria,L,sp_k5_20000,sp,20000.0,20.0,2156,2156,18.359464860281555,-0.1655360822493781,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputL\y_pred_oof.npy
+koppen_class,BSh,L,sp_k5_20000,sp,20000.0,20.0,834,834,13.672486677358098,-0.07314298609190817,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputL\y_pred_oof.npy
+koppen_class,BSk,L,sp_k5_20000,sp,20000.0,20.0,460,460,9.806486453402783,-3.4820100979262696,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputL\y_pred_oof.npy
+koppen_class,BWh,L,sp_k5_20000,sp,20000.0,20.0,288,288,10.69599064836981,0.17458380149585684,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputL\y_pred_oof.npy
+koppen_class,BWk,L,sp_k5_20000,sp,20000.0,20.0,21,21,9.3318434088608,-4.361170778131994,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputL\y_pred_oof.npy
+koppen_class,Csa,L,sp_k5_20000,sp,20000.0,20.0,551,551,29.87260628449084,-1.48729622601821,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputL\y_pred_oof.npy
+koppen_class,All Algeria,OM,sp_k5_20000,sp,20000.0,20.0,2156,2156,3.031757072884167,0.20892037753525372,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,BSh,OM,sp_k5_20000,sp,20000.0,20.0,834,834,3.9426411945871154,0.1702909894950002,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,BSk,OM,sp_k5_20000,sp,20000.0,20.0,460,460,0.9185336722850639,-2.0028775500388463,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,BWh,OM,sp_k5_20000,sp,20000.0,20.0,288,288,0.47978004759590864,-0.05890169909159182,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,BWk,OM,sp_k5_20000,sp,20000.0,20.0,21,21,1.0697875455112715,-8.572573852769878,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,Csa,OM,sp_k5_20000,sp,20000.0,20.0,551,551,3.392903053390931,-0.3642176781423876,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputOM\y_pred_oof.npy
+koppen_class,All Algeria,pH,sp_k5_20000,sp,20000.0,20.0,2156,2156,0.7525920905000812,0.06948618600743472,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,BSh,pH,sp_k5_20000,sp,20000.0,20.0,834,834,1.0403477223317,-0.2636255207473861,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,BSk,pH,sp_k5_20000,sp,20000.0,20.0,460,460,0.4434940409238893,-10.72938825963805,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,BWh,pH,sp_k5_20000,sp,20000.0,20.0,288,288,0.39292222936168375,0.0467322141533858,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,BWk,pH,sp_k5_20000,sp,20000.0,20.0,21,21,0.16892223586341318,-2.951151390110058,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,Csa,pH,sp_k5_20000,sp,20000.0,20.0,551,551,0.5745093942940999,-0.22889717211714689,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputpH\y_pred_oof.npy
+koppen_class,All Algeria,S%,sp_k5_20000,sp,20000.0,20.0,2156,2156,22.93718993819744,0.1349751889585893,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,BSh,S%,sp_k5_20000,sp,20000.0,20.0,834,834,31.66563391403483,-1.0526425544227291,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,BSk,S%,sp_k5_20000,sp,20000.0,20.0,460,460,10.816578389951697,-0.9607298600082943,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,BWh,S%,sp_k5_20000,sp,20000.0,20.0,288,288,15.493696301791655,0.28256233110960194,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,BWk,S%,sp_k5_20000,sp,20000.0,20.0,21,21,11.40389650302079,-2.729297242634124,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,Csa,S%,sp_k5_20000,sp,20000.0,20.0,551,551,17.67160523765201,-0.3742944411988294,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_20000\outputS%\y_pred_oof.npy
+koppen_class,All Algeria,A%,sp_k5_30000,sp,30000.0,30.0,2156,2156,15.095865902444254,-0.27508178485769275,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,BSh,A%,sp_k5_30000,sp,30000.0,30.0,834,834,18.276416156138833,-2.1383232805119254,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,BSk,A%,sp_k5_30000,sp,30000.0,30.0,460,460,7.210304098901319,-0.7317604312352726,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,BWh,A%,sp_k5_30000,sp,30000.0,30.0,288,288,8.043371613838495,0.356203979891081,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,BWk,A%,sp_k5_30000,sp,30000.0,30.0,21,21,6.528380510767338,-3.664337638728113,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,Csa,A%,sp_k5_30000,sp,30000.0,30.0,551,551,17.428536553340596,0.10837424339428658,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputA%\y_pred_oof.npy
+koppen_class,All Algeria,CE,sp_k5_30000,sp,30000.0,30.0,2156,2156,10.391529504678346,0.11677156243267395,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,BSh,CE,sp_k5_30000,sp,30000.0,30.0,834,834,6.139802101215978,-0.8551132032157664,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,BSk,CE,sp_k5_30000,sp,30000.0,30.0,460,460,4.374271456797382,-0.22609354604928966,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,BWh,CE,sp_k5_30000,sp,30000.0,30.0,288,288,9.770029118294389,-0.2917768371974896,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,BWk,CE,sp_k5_30000,sp,30000.0,30.0,21,21,4.702624909791597,-0.6924235291461951,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,Csa,CE,sp_k5_30000,sp,30000.0,30.0,551,551,17.266902307093858,0.11258801276578667,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCE\y_pred_oof.npy
+koppen_class,All Algeria,CEC,sp_k5_30000,sp,30000.0,30.0,2156,2156,2.6545750765361276,0.0887843786075303,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,BSh,CEC,sp_k5_30000,sp,30000.0,30.0,834,834,3.145376362143491,-0.23048340063329475,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,BSk,CEC,sp_k5_30000,sp,30000.0,30.0,460,460,1.968745495023045,-1.658560189655836,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,BWh,CEC,sp_k5_30000,sp,30000.0,30.0,288,288,3.6127170481629185,0.11304970930127345,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,BWk,CEC,sp_k5_30000,sp,30000.0,30.0,21,21,2.3903760407544383,-84.41848199424552,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,Csa,CEC,sp_k5_30000,sp,30000.0,30.0,551,551,1.5239359172638194,-0.2865914211330367,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputCEC\y_pred_oof.npy
+koppen_class,All Algeria,L,sp_k5_30000,sp,30000.0,30.0,2156,2156,12.629502617476295,0.4484585192694308,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputL\y_pred_oof.npy
+koppen_class,BSh,L,sp_k5_30000,sp,30000.0,30.0,834,834,7.60921493731589,0.6676143412555094,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputL\y_pred_oof.npy
+koppen_class,BSk,L,sp_k5_30000,sp,30000.0,30.0,460,460,6.480077481703778,-0.9570700133023804,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputL\y_pred_oof.npy
+koppen_class,BWh,L,sp_k5_30000,sp,30000.0,30.0,288,288,9.759272047268748,0.3128274426742833,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputL\y_pred_oof.npy
+koppen_class,BWk,L,sp_k5_30000,sp,30000.0,30.0,21,21,11.829250877095971,-7.6146818193065275,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputL\y_pred_oof.npy
+koppen_class,Csa,L,sp_k5_30000,sp,30000.0,30.0,551,551,21.1214656712679,-0.24345302815590064,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputL\y_pred_oof.npy
+koppen_class,All Algeria,OM,sp_k5_30000,sp,30000.0,30.0,2156,2156,3.1260818587849353,0.1589300995359929,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,BSh,OM,sp_k5_30000,sp,30000.0,30.0,834,834,4.1262501636749045,0.09121237418601047,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,BSk,OM,sp_k5_30000,sp,30000.0,30.0,460,460,0.9486101296041802,-2.202749526430321,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,BWh,OM,sp_k5_30000,sp,30000.0,30.0,288,288,0.4793782490300022,-0.057128857430696955,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,BWk,OM,sp_k5_30000,sp,30000.0,30.0,21,21,1.086059067328235,-8.865987075317202,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,Csa,OM,sp_k5_30000,sp,30000.0,30.0,551,551,3.398109991195517,-0.36840809981018463,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputOM\y_pred_oof.npy
+koppen_class,All Algeria,pH,sp_k5_30000,sp,30000.0,30.0,2156,2156,0.787875715089782,-0.01980926691625573,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,BSh,pH,sp_k5_30000,sp,30000.0,30.0,834,834,1.0598666531954617,-0.3114864360330851,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,BSk,pH,sp_k5_30000,sp,30000.0,30.0,460,460,0.4770760678009184,-12.572974927294503,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,BWh,pH,sp_k5_30000,sp,30000.0,30.0,288,288,0.4012420592546191,0.00593537474389072,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,BWk,pH,sp_k5_30000,sp,30000.0,30.0,21,21,0.13158945820592832,-1.397685547663519,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,Csa,pH,sp_k5_30000,sp,30000.0,30.0,551,551,0.665377117092118,-0.6483787138551058,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputpH\y_pred_oof.npy
+koppen_class,All Algeria,S%,sp_k5_30000,sp,30000.0,30.0,2156,2156,23.82890797164812,0.06640950277872582,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,BSh,S%,sp_k5_30000,sp,30000.0,30.0,834,834,30.4428554352403,-0.8971764531400164,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,BSk,S%,sp_k5_30000,sp,30000.0,30.0,460,460,16.20958598455935,-3.403335774661371,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,BWh,S%,sp_k5_30000,sp,30000.0,30.0,288,288,18.79423951686873,-0.055658896756657805,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,BWk,S%,sp_k5_30000,sp,30000.0,30.0,21,21,10.049035690008063,-1.8958045291324614,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,Csa,S%,sp_k5_30000,sp,30000.0,30.0,551,551,20.25923270699892,-0.8062330020177828,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_30000\outputS%\y_pred_oof.npy
+koppen_class,All Algeria,A%,sp_k5_50000,sp,50000.0,50.0,2156,2156,14.585002738325942,-0.19024129276234825,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,BSh,A%,sp_k5_50000,sp,50000.0,50.0,834,834,15.061890046531577,-1.131447045696762,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,BSk,A%,sp_k5_50000,sp,50000.0,50.0,460,460,6.507488462745004,-0.4106116374943001,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,BWh,A%,sp_k5_50000,sp,50000.0,50.0,288,288,8.0348032805073,0.3575748778228742,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,BWk,A%,sp_k5_50000,sp,50000.0,50.0,21,21,3.672614106882154,-0.4761471663308807,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,Csa,A%,sp_k5_50000,sp,50000.0,50.0,551,551,20.44906503517594,-0.22746092194071532,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputA%\y_pred_oof.npy
+koppen_class,All Algeria,CE,sp_k5_50000,sp,50000.0,50.0,2156,2156,11.202997358527876,-0.026555799287380832,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,BSh,CE,sp_k5_50000,sp,50000.0,50.0,834,834,7.507265340276081,-1.7734810456958705,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,BSk,CE,sp_k5_50000,sp,50000.0,50.0,460,460,7.07921039079626,-2.2113066885554336,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,BWh,CE,sp_k5_50000,sp,50000.0,50.0,288,288,9.22671990078085,-0.15210072606690495,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,BWk,CE,sp_k5_50000,sp,50000.0,50.0,21,21,3.6285012029370862,-0.007587839444350042,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,Csa,CE,sp_k5_50000,sp,50000.0,50.0,551,551,17.812686863029718,0.05560148865611547,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCE\y_pred_oof.npy
+koppen_class,All Algeria,CEC,sp_k5_50000,sp,50000.0,50.0,2156,2156,2.6760223332674458,0.07400082754250259,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,BSh,CEC,sp_k5_50000,sp,50000.0,50.0,834,834,3.006329831747627,-0.12409696371104184,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,BSk,CEC,sp_k5_50000,sp,50000.0,50.0,460,460,2.0355479403871333,-1.8420388658881137,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,BWh,CEC,sp_k5_50000,sp,50000.0,50.0,288,288,4.075006084420899,-0.12846451339748688,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,BWk,CEC,sp_k5_50000,sp,50000.0,50.0,21,21,1.1448585638318456,-18.593998439136488,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,Csa,CEC,sp_k5_50000,sp,50000.0,50.0,551,551,1.4126439521585024,-0.10553544275800086,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputCEC\y_pred_oof.npy
+koppen_class,All Algeria,L,sp_k5_50000,sp,50000.0,50.0,2156,2156,20.23488897295342,-0.41581770139353713,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputL\y_pred_oof.npy
+koppen_class,BSh,L,sp_k5_50000,sp,50000.0,50.0,834,834,17.66558120412527,-0.7915066913284328,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputL\y_pred_oof.npy
+koppen_class,BSk,L,sp_k5_50000,sp,50000.0,50.0,460,460,5.510733840331692,-0.415353218370075,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputL\y_pred_oof.npy
+koppen_class,BWh,L,sp_k5_50000,sp,50000.0,50.0,288,288,10.420355260007389,0.21657755562712333,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputL\y_pred_oof.npy
+koppen_class,BWk,L,sp_k5_50000,sp,50000.0,50.0,21,21,9.907500783545224,-5.043005468590053,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputL\y_pred_oof.npy
+koppen_class,Csa,L,sp_k5_50000,sp,50000.0,50.0,551,551,32.306100817738404,-1.9090445285366444,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputL\y_pred_oof.npy
+koppen_class,All Algeria,OM,sp_k5_50000,sp,50000.0,50.0,2156,2156,3.465103981621662,-0.03338925581247909,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,BSh,OM,sp_k5_50000,sp,50000.0,50.0,834,834,4.542515978672881,-0.10139784691160747,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,BSk,OM,sp_k5_50000,sp,50000.0,50.0,460,460,1.1121138212672863,-3.401958422039085,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,BWh,OM,sp_k5_50000,sp,50000.0,50.0,288,288,0.5654758929416134,-0.470955277911546,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,BWk,OM,sp_k5_50000,sp,50000.0,50.0,21,21,1.0219968888659743,-7.7364057908503,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,Csa,OM,sp_k5_50000,sp,50000.0,50.0,551,551,3.8090938956150575,-0.7194285296464951,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputOM\y_pred_oof.npy
+koppen_class,All Algeria,pH,sp_k5_50000,sp,50000.0,50.0,2156,2156,0.7293924891730276,0.1259704835395581,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,BSh,pH,sp_k5_50000,sp,50000.0,50.0,834,834,0.9826995247386311,-0.12746440356588007,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,BSk,pH,sp_k5_50000,sp,50000.0,50.0,460,460,0.2756285171784605,-3.530520315675001,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,BWh,pH,sp_k5_50000,sp,50000.0,50.0,288,288,0.43411743433876054,-0.16363338634823665,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,BWk,pH,sp_k5_50000,sp,50000.0,50.0,21,21,0.08761028165957077,-0.06282113238077036,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,Csa,pH,sp_k5_50000,sp,50000.0,50.0,551,551,0.6749196767535272,-0.6959984668358363,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputpH\y_pred_oof.npy
+koppen_class,All Algeria,S%,sp_k5_50000,sp,50000.0,50.0,2156,2156,23.393851074938354,0.10018840705763443,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,BSh,S%,sp_k5_50000,sp,50000.0,50.0,834,834,27.766953518942124,-0.5783140465609158,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,BSk,S%,sp_k5_50000,sp,50000.0,50.0,460,460,9.28706809095969,-0.4454238555381427,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,BWh,S%,sp_k5_50000,sp,50000.0,50.0,288,288,14.817705876834589,0.3438002846499397,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,BWk,S%,sp_k5_50000,sp,50000.0,50.0,21,21,8.89617151835247,-1.2694820950613752,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputS%\y_pred_oof.npy
+koppen_class,Csa,S%,sp_k5_50000,sp,50000.0,50.0,551,551,28.010390447960383,-2.4527577795967703,cv_optuna_utcnn\test_best_random_on_spCV\all\sp_k5_50000\outputS%\y_pred_oof.npy

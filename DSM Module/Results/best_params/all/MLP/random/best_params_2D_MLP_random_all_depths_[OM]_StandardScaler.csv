@@ -1,0 +1,2 @@
+nb_neurones_by_layer,lr,dropout_rate,hidden_activation,output_activation,batch_size,epochs,r2,rmse
+"[128, 64, 32]",0.001,0.1,relu,linear,16,100,0.7503527662553322,1.7031295323439508

@@ -1,0 +1,1 @@
+soil_properties,cv_method,normalization,depth,loss,optimizer,nb_neurones_by_layer,lr,dropout_rate,hidden_activation,output_activation,batch_size,epochs,history,metrics,rmse,mse,r2,mae,time
