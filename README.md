@@ -360,7 +360,3 @@ The project intentionally distinguishes random point-level validation from spati
 - The uncertainty notebooks currently use relative paths such as `models_utcnn/`, `inputs_stacked/`, `points.csv`, and `cnn_basic_maps\A\A_map.tif`; run them from the directory expected by the notebook or update those paths first.
 - The prediction notebook fits a `StandardScaler` on the full prediction grid. For strict deployment without data leakage, reuse the scaler fitted during training and persist it with the model.
 - Generated HTML, raster, NumPy, and CSV files may be large and are not necessarily regenerated automatically.
-
-## Citation and license
-
-No license or citation metadata is currently included in the repository. Add the appropriate license, dataset acknowledgements, and publication citation before distributing or publishing derived results.

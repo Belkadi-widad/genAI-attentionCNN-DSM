@@ -81,28 +81,6 @@ def channel_attention(input_feature, ratio=8, name=None):
     return layers.Multiply()([input_feature, scale])
 
 
-# -----------------------------
-# 2. Spatial Attention
-# -----------------------------
-# def spatial_attention(input_feature, kernel_size=7):
-#     # Compute mean and max across channels
-#     avg_pool = layers.Lambda(lambda x: K.mean(x, axis=3, keepdims=True))(input_feature)
-#     max_pool = layers.Lambda(lambda x: K.max(x, axis=3, keepdims=True))(input_feature)
-
-#     concat = layers.Concatenate(axis=3)([avg_pool, max_pool])
-
-#     # Convolution + sigmoid
-#     cbam_feature = layers.Conv2D(filters=1,
-#                                  kernel_size=kernel_size,
-#                                  strides=1,
-#                                  padding='same',
-#                                  activation='sigmoid',
-#                                  kernel_initializer='he_normal',
-#                                  use_bias=False)(concat)
-
-#     # Multiply input by spatial attention map
-#     return layers.Multiply()([input_feature, cbam_feature])
-
 def cbam_block(input_feature, ratio=12, kernel_size=7, name=None):
     x = channel_attention(input_feature, ratio, name=f'{name}_ch' if name else None)
     x = SpatialAttention()(x)
