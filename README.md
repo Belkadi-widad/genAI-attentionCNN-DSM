@@ -87,7 +87,7 @@ The notebooks refer to soil variables including pH, electrical conductivity (`CE
 
 ## Installation
 
-No `requirements.txt` or `pyproject.toml` is currently provided. Create an isolated environment and install the core dependencies used by the modules and notebooks:
+Create an isolated environment and install the dependencies used by the modules and notebooks:
 
 ```bash
 python -m venv .venv
@@ -99,13 +99,10 @@ python -m venv .venv
 # source .venv/bin/activate
 
 python -m pip install --upgrade pip
-python -m pip install \
-  numpy pandas matplotlib scikit-learn tensorflow optuna \
-  lightgbm jupyterlab geopandas rasterio xarray netcdf4 \
-  shapely pyproj folium seaborn
+python -m pip install -r requirements.txt
 ```
 
-The exact geospatial packages required depend on which data-preparation and mapping notebooks are run. On Windows, install a TensorFlow version compatible with the selected Python version and hardware. GPU acceleration is optional; the CNN modules fall back to CPU execution.
+The requirements file includes the core modeling, cross-validation, notebook, and geospatial dependencies. On Windows, install a TensorFlow version compatible with the selected Python version and hardware if the unpinned package is not suitable. GPU acceleration is optional; the CNN modules fall back to CPU execution.
 
 ## Getting started
 
