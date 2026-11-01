@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 """
+Reference of the code:
+Y Wang, 2023, "SPATIAL+ CROSS-VALIDATION (SP-CV) EXPERIMENTS DATASETS AND CODES (after review)", https://doi.org/10.17026/DANS-ZWJ-ZAUQ, DANS Data Station Physical and Technical Sciences, V2, UNF:6:pxaVakGPWU1VPv0c0/3k7w== [fileUNF]
+https://phys-techsciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-zwj-zauq
 randomCV.py
 
 Random (non-spatial) k-fold cross-validation for the soil dataset.

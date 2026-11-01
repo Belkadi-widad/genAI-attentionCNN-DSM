@@ -1,5 +1,8 @@
+# Code for spatial cross-validation
 # -*- coding: utf-8 -*-
 """
+Reference of the code:
+Y Wang, 2023, "SPATIAL+ CROSS-VALIDATION (SP-CV) EXPERIMENTS DATASETS AND CODES (after review)", https://doi.org/10.17026/DANS-ZWJ-ZAUQ, DANS Data Station Physical and Technical Sciences, V2, UNF:6:pxaVakGPWU1VPv0c0/3k7w== [fileUNF]
 spatialCV.py
 
 Spatial cross-validation splitting methods, adapted from the original
